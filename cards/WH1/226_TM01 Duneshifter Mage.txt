@@ -1,0 +1,1 @@
+﻿TM01 Duneshifter Mage	WUG	rare	Creature – Human Wizard 	226	WUG	G/WW/U	If a modified creature you control would die, you may move up to one Aura and up to one counter from it to TM01 Duneshifter Mage. (Then the creature dies.)	2/3		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Added reminder text that the creature dies after the counters / Auras move.

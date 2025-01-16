@@ -1,0 +1,1 @@
+﻿CU18 Seek a Glow	U	common	Sorcery	57	U	U	Target creature you control gains skulk until end of turn. (That creature can’t be blocked by creatures with greater power.)NEWLINEDraw a card.			normal	WH1		*new*

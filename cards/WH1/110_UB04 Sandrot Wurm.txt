@@ -1,0 +1,1 @@
+﻿UB04 Sandrot Wurm	B	uncommon	Creature – Wurm 	110	B	3B	Wilderness – As long as there are 8 or more land cards among lands on the battlefield under your control and in your graveyard, Sandrot Wurm has afflict 3. (Whenever this creature becomes blocked, defending player loses 3 life.)	4/5		normal	WH1		

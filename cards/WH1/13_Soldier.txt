@@ -1,0 +1,1 @@
+﻿Soldier		common	Token Creature – Soldier 	13	C			1/1		token	WH1		

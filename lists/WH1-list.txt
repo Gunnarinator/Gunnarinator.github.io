@@ -1,0 +1,325 @@
+20_MW01 Ebian Conjurer
+59_MU01 Vriilda, Accursed Benefactor
+99_MB01 Deios, Eclipse Harbinger
+136_MR1 Xaja, Stoneblade Eternal
+176_MG01 Caller of the Tempest
+21_MW02 Voice in the Wind
+60_MU02 Ashiok's Wish
+100_MB02 Pray to the Dark
+137_MR02 Alter Fate
+177_MG02 Eastwood Channeler
+22_RW01 Ivory Blademaster
+61_RU01 Kaito's Edgerunner
+101_RB01 Waste Ghast
+138_RR01 Ruby Blademaster
+178_RG01 Evolving Creepvine
+23_RW02 Knight of Night's End
+62_RU02 Plotting Warmage
+102_RB02 Lisan and Vorilik
+139_RR02 Bloodfang Inspirator
+179_RG02 Hinist Recycler
+24_RW03 Prophet of Hago
+63_RU03 Soulmaster Spirit
+103_RB03 Knight of Blackwater
+140_RR03 Daring Legionnaire
+180_RG03 Caller of Forms
+25_RW04 Soulfire Smite
+64_RU04 Deafening Whisper
+104_RB04 Fallen Tutor
+141_RR04 Fort-Terror Drake
+181_RG04 Riverside Ranger
+26_RW05 Rycar's Inspiration
+65_RU05 Odreida's Final Command
+105_RB05 Atlani's Meanderings
+142_RR05 The Mad March
+182_RG05 Harmonious Convergence
+27_RW06 Valorie Descends to Losrun
+66_RU06 The Sarennan Pact
+106_RB06 Aldreida Seals The Drake
+143_RR06 Invention of the Prediscern
+183_RG06 Discovery of Thallglade
+28_UW01 Daring Skyjumper
+67_RZ01 Recaster Mystic
+107_UB01 Conniving Hag
+131_CR15 Eager Lavaseeker
+184_UG01 Dreamtorn Dryad
+29_UW02 Venerated Wardshield
+44_CU05 Riptide Roil
+108_UB02 Dryleaf Scout
+144_UR01 Thundercrack Barbarian
+185_UG02 Steadfast Bear
+30_UW03 Wandering Mender
+68_UU01 Foliage Manta
+109_UB03 Wightlord Knight
+145_UR02 Fireform
+186_UG03 Billowbeast's Tenacity
+31_UW04 Meirlian Cavalier
+69_UU02 Bookkeeper Ancient
+110_UB04 Sandrot Wurm
+146_UR03 Highpeak Berserkers
+187_UG04 Stalking Form
+32_UW05 Angel of Burning Light
+70_UU03 Stardust Fox
+111_UB06 Black Knight's Ride
+147_UR04 Kitewing Devastator
+188_UG05a Alpine Outcast
+33_UW06 Absolution
+71_UU04 Gaze at Possibilities
+112_UB07 Bloody Divination
+148_UR05 Hunter's Blood Rite
+189_UG06 Zadarian Behemoth
+34_UW07 Patient Prayer
+72_UU05 Inexorable Repetition
+113_UB08 Will of Selem
+149_UR06 Hellkite's Fury
+190_UG07 Remember the Past
+35_UW08 Meirlian Sanctimony
+73_UU06 Blue Moon's Eclipse
+114_UB09 Painful Remeniscence
+150_UR06 Phoenix Gaze
+191_UG08 Prayer to the Moon
+36_UW09 Brighthall Cantor
+74_UU07 Illusionist's Bluff
+115_UB10 Cloak of Dandelions
+151_UR07 Euphoric Voice
+192_UG09 Goblin Rites
+37_UW10 Full Moon Envoy
+75_UU08 Eternal Ritual
+116_UB11 Dusklight Censor
+152_UR08 Cult Conversion
+193_UG10 Snowpeak Tracker
+38_UW11 Euphorious Dawn
+76_UU09 Coral Singer
+117_UB12 Tzita's Hound
+153_UR09 Induce Paranoia
+194_UG11 Athallden Huntmaster
+39_UW12 Trail to Goldthrone
+77_UU10 Ravenback Courier
+80_CB01 Silumgar Ratter
+154_UR10 Parade Designer
+195_UG12 March of Abzan Armies
+1_CW01 Valley Falconer
+78_UU11 Filtration Matrix
+81_CB02 Shadowmage Espion
+155_UR11 Vulpine Firestarter
+157_CG01 Hearty Bug
+2_CW02 Gleeful Form
+79_UU12 High Stakes Negotiations
+82_CB03 Corvid Carriers
+156_UR12 Pummeler Suit
+158_CG02 Sleepy Axonfox
+3_CW03 Faithbinder Apprentice
+40_CU01 Form of the Bird
+83_CB04 Lonely Rider
+118_CR01 Torchlight Elves
+159_CG03 Lounging Capuchin
+4_CW04 Majestic Leobird
+41_CU02 Coastal Scout
+84_CB05 Cherrybloom Biter
+119_CR02 Swiftwind Hunter
+160_CG04 Stalwart Axonox
+5_CW05 Alabaster Knight
+42_CU03 Highperch Crow
+85_CB06 Stand By
+120_CR03 Shocklance Riders
+161_CG05 Glade Defender
+6_CW06 Knight of Brighthall
+43_CU04 Questing Cavaliers
+86_CB07 Find Prey
+121_CR04 Reckless Form
+162_CG06 Ancestor of Harvest
+7_CW07 Corezan Iconoclast
+45_CU06 Consign to the Mists
+87_CB08 Dull the Light
+122_CR05 Cliffscaler Vigil
+163_CG07 Moss Knight
+8_CW08 Broadfield Fencer
+46_CU07 Daily Lesson
+88_CB09 Preventative Measures
+123_CR07 Holy Consecration
+164_CG08 Barkhorn Deer
+9_CW09 Manticore Handler
+47_CU08 Sea Witch's Ire
+89_CB10 Holistic Terror
+124_CR08 Cull the Artificial
+165_CG09 Faerie's Arrow
+10_CW10 Oketra's Forerunner
+48_CU09 Superior Reflex
+90_CB11 Dread Harvest
+125_CR09 Coterie of the Damned
+166_CG10 Petal Rain
+11_CW11 Drakeform
+49_CU10 Ship to Iceport
+91_CB12 Lightstealer Owl
+126_CR10 Devilish Valor
+167_CG11 Strength in Variety
+12_CW12 Dragoon Vigil
+50_CU11 Uncover the Hidden
+92_CB13 Dovaski Necrolord
+127_CR11 Chase to the Ground
+168_CG12 Set Off
+13_CW13 Guiding Bolt
+51_CU12 Dangerous Curiosity
+93_CB14 Ancient Revengeant
+128_CR12 Rycar's Standard
+169_CG13 Bearheart Warrior
+14_CW14 Tip the Scales
+52_CU13 Weathered Captain
+94_CB15 Shred to Threads
+129_CR13 Flame Weaver
+170_CG14 Oakhelm Archer
+15_CW15 Perfect Timing
+53_CU14 Ossodeilian Medic
+95_CB16 Den Shades
+130_CR14 Threat Calculator
+171_CG15 Stream Templar
+16_CW16 Heart-Piercing Arrow
+54_CU15 Skylight Thief
+96_CB17 Stinger Lancer
+132_CR16 Thunder Surge
+172_CG16 Stealth Veil
+17_CW17 Prayer of Salvation
+55_CU16 Contentious Plan
+97_CB18 Duress
+133_CR17 Sassy Swordplay
+173_CG17 Mycoid Templar
+18_CW18 Protection from Beyond
+56_CU17 Prediscern
+98_CB19 Rotweave
+134_CR18 Fleeting Inspiration
+174_CG18 Violent Emergence
+19_CW19 Trapped in Beaucracy
+57_CU18 Seek a Glow
+e
+135_CR19 Explosive Fall
+175_CG19 Elkrider Druid
+e
+58_CU19 Historical Starmap
+e
+e
+e
+er
+er
+er
+er
+er
+206_MM01 Storm Crow Regent
+207_MM02 Mavagia, Herald of Ruin
+208_MM03 Dracoknight of Ash
+209_MM04 Mightstealer Hydra
+210_MM05 Tokata of the Mask
+216_RM01 Denunciation Angel
+217_RM02 Maid of the Shadow Dragon
+218_RM03 Lulak, Advent of War
+219_RM04 New Mardu Visionary
+220_RM05 Vine, Prodigal Plantweaver
+196_A01 Oaths of Ucello
+197_A02 Arisen Ritualist
+198_A03 Dusk Rider
+199_A04 Leafwing Dryad
+200_A05 Guiding Forms
+er
+er
+er
+er
+er
+211_MM06 Tzita, Peacebringer
+212_MM07 Tovat, the Doomed
+213_MM08 Esthuar, Endless Growth
+214_MM09 Ossodeilian Nexus
+215_MM10 Crimson Skylark
+221_RM06 Heartbreak
+222_RM07 Caitir, Blade of Athallden
+223_RM08 Alarud, Aegis of Sarenne
+224_RM09 Nadia, Sky Admiral
+225_RM10 Rose Burst
+201_A06 Wasteling Harvester
+202_A07 Detritus Haunt
+203_A08 Rite of Growth
+204_A09 Master of Old Ways
+205_A10 Corezan War Paladin
+er
+er
+er
+er
+er
+226_TM01 Duneshifter Mage
+227_TM02 Minister of Propagation
+228_TM03 Inexplicable Series
+229_TM04 Champion of Foul Lands
+230_TM05 Vox Ipharadi
+er
+er
+er
+er
+er
+238_RA02 Imperfect Reflection
+239_UA01 Brass Icewalkers
+240_UA02 Angel of the Crossroads
+241_UA03 Glorious Conductor
+231_CA01 Swarm of Weldbugs
+232_CA02 Wasteland Wanderer
+233_CA03 River Bauble
+234_CA04 Meirlian Arms
+235_CA05 Potent Venom
+236_CA06 Potent Potion
+237_CA07 Psionic Memory Shard
+e
+e
+e
+e
+er
+er
+er
+er
+er
+252_CL01 Shipwreck Landing
+253_CL02 Silumgar Undertower
+254_CL03 Bloodfell Towers
+255_CL04 Autumn Vista
+256_CL05 Giast Promenade
+257_CL06 Opulent Palace
+258_CL07 Lush Crypt
+259_CL08 Verdant Port
+260_CL09 Summit Shrine
+261_CL10 Foothill Cathedral
+er
+er
+er
+er
+er
+242_UL01 Glacial Monastery
+243_UL02 Forsaken Shrine
+244_UL03 Magma Flows
+245_UL04 Hunting Peaks
+246_﻿UL05 Garden Ruins
+247_UL06 Corrupted Snowfield
+248_UL07 Mossed Sepulcher
+249_UL08 Verdant Campus
+250_UL09 Seaside Cliff
+251_UL10 Whitepeak Pass
+262_SL01 Shifting Field
+263_SL02 Shifting Coast
+264_SL03 Shifting Mire
+265_SL04 Shifting Peak
+266_SL05 Shifting Trails
+er
+er
+er
+er
+er
+1t_Mask Spirit
+2t_Angel
+3t_Cleric
+4t_Faerie Knight
+5t_Soldier
+6t_Storm Crow
+8t_Nightmare
+9t_Wurm
+10t_Spirit
+11t_Wolf
+12t_Mask
+13t_Soldier
+e
+e
+e

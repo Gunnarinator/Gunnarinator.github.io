@@ -1,0 +1,1 @@
+﻿RR02 Bloodfang Inspirator	R	rare	Creature – Werewolf Shaman 	139	R	2R	Activated abilities you control cost 1 less to activate. This effect can’t reduce the amount of mana an ability costs to activate to less than one mana.	3/2		normal	WH1		

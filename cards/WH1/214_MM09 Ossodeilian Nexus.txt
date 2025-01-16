@@ -1,0 +1,1 @@
+﻿MM09 Ossodeilian Nexus	UR	mythic	Artifact	214	UR	UR	Magecraft – Whenever you cast or copy a noncreature spell, create a 1/1 colorless Soldier artifact creature token.NEWLINESacrifice four artifacts: Copy target noncreature spell you control. You may choose new targets for the copy.			normal	WH1		

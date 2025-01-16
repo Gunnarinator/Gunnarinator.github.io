@@ -1,0 +1,1 @@
+﻿CU01 Form of the Bird	U	common	Enchantment – Aura 	40	U	1U	Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has flying.NEWLINEBind U (You may cast this spell for its Bind cost. If you do, create a colorless 0/0 Mask artifact creature token, then attach this to it.)			normal	WH1		

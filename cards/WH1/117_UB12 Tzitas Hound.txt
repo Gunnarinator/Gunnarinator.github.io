@@ -1,0 +1,1 @@
+﻿UB12 Tzita's Hound	B	uncommon	Creature – Wolf Horror 	117	B	1BB	Whenever you gain life, if Tzita’s Hound doesn’t have menace, it gets +3/+2 and gains menace until end of turn. 	2/2		normal	WH1		*new*NEWLINENEWLINEChupacabra but with lifelink

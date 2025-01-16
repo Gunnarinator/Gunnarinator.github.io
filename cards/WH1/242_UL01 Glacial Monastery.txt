@@ -1,0 +1,1 @@
+﻿UL01 Glacial Monastery		uncommon	Land	242	C		T, Sacrifice Glacial Monastery: Search your library for a basic Plains or basic Island card, put it on the battlefield, then shuffle.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

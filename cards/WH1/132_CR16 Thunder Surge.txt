@@ -1,0 +1,1 @@
+﻿CR16 Thunder Surge	R	common	Instant	132	R	1R	Magecraft – Target creature gets +X/+1 until end of turn, where X is two plus the number of spells you’ve cast or copied this turn.			normal	WH1		*new*

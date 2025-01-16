@@ -1,0 +1,1 @@
+﻿RM02 Maid of the Shadow Dragon	UB	rare	Creature – Human Cleric 	217	UB	2UB	FlyingNEWLINEAs long as you’ve drawn two or more cards this turn, Maid of the Shadow Dragon is a Dragon with base power and toughness 6/6.	2/2		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed her trigger to copy Goddric’s static from WOE.

@@ -1,0 +1,1 @@
+﻿CW10 Oketra's Forerunner	W	common	Creature – Human Warrior 	10	W	1W	VigilanceNEWLINEWhen Oketra’s Forerunner enters the battlefield, create a 1/1 white Human Warrior creature token with vigilance.	1/1		normal	WH1		*new*NEWLINENEWLINEResolute Reinforcements but I replaced Flash with Vigilance

@@ -1,0 +1,1 @@
+﻿CB10 Holistic Terror	B	common	Enchantment – Aura 	89	B	1B	Enchant creatureNEWLINEEnchanted creature has defender.NEWLINEEnchanted creature has “At the beginning of your upkeep you lose 1 life.”			normal	WH1		

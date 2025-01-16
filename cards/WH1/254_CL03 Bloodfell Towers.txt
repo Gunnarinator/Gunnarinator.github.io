@@ -1,0 +1,1 @@
+﻿CL03 Bloodfell Towers		special	Land	254	BR		Bloodfell Towers enters the battlefield tapped.NEWLINEWhen Bloodfell Towers enters the battlefield, sacrifice a land.NEWLINET: Add BR.			normal	WH1		

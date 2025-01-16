@@ -1,0 +1,1 @@
+﻿CU09 Superior Reflex	U	common	Instant	48	U	2UU	Counter target spell.NEWLINEUntap up to one target creature you control.			normal	WH1		

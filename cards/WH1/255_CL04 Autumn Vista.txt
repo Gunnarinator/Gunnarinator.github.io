@@ -1,0 +1,1 @@
+﻿CL04 Autumn Vista		special	Land	255	RG		Autumn Vista enters the battlefield tapped.NEWLINEWhen Autumn Vista enters the battlefield, sacrifice a land.NEWLINET: Add RG.			normal	WH1		

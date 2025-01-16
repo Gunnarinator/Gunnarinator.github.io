@@ -1,0 +1,1 @@
+﻿UU10 Ravenback Courier	U	uncommon	Creature – Faerie Citizen 	77	U	1U	FlyingNEWLINEWhenever Ravenback Courier deals combat damage to a player, you may draw a card. If you do, discard a card.	2/2		normal	WH1		*new*

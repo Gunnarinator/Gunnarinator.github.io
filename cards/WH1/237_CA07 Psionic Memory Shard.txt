@@ -1,0 +1,1 @@
+﻿CA07 Psionic Memory Shard		common	Artifact	237	C	1	T: Put a charge counter on Psionic Memory Shard.NEWLINE5, T: Draw a card. This ability costs 1 less to activate for each charge counter on Psionic Memory Shard.			normal	WH1		

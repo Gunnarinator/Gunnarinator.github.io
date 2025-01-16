@@ -1,0 +1,1 @@
+﻿UA02 Angel of the Crossroads		uncommon	Artifact	240	C	1	1, T: You gain 1 life.NEWLINE2, T: Put a +1/+1 counter on target creature you control or a charge counter on target artifact you control.NEWLINE3, T: Angel of the Crossroads becomes a 3/3 Angel creature with flying in addition to its other types.			normal	WH1		

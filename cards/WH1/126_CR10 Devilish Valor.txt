@@ -1,0 +1,1 @@
+﻿CR10 Devilish Valor	R	common	Enchantment – Aura 	126	R	R	Enchant creatureNEWLINEWhen enchanted creature dies, it deals damage equal to its power to any target.			normal	WH1		

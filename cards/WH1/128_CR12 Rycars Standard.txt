@@ -1,0 +1,1 @@
+﻿CR12 Rycar's Standard	R	common	Creature – Elf Knight 	128	RG	R	1R: Target creature can’t block Rycar’s Standard this turn.NEWLINE1G: Rycar’s Standard gets +1/+1 until end of turn.	1/1		normal	WH1		

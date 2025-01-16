@@ -1,0 +1,1 @@
+﻿MM01 Storm Crow Regent	WU	mythic	Creature – Bird Noble 	206	WU	3WU	FlyingNEWLINEOther creatures with flying you control get +1/+1.NEWLINEAt the beginning of your end step, create a 1/2 blue Bird creature token with flying named Storm Crow.	3/3		normal	WH1		this one should be silver border but it’s funny

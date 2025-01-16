@@ -1,0 +1,1 @@
+﻿UG01 Dreamtorn Dryad	G	uncommon	Enchantment Creature – Dryad Horror 	184	BG	1G	Dreamtorn Dryad enters the battlefield with three -1/-1 counters on it.NEWLINET, Remove a -1/-1 counter from Dreamtorn Dryad: Add B or G.	4/4		normal	WH1		Eclipse

@@ -1,0 +1,1 @@
+﻿CG03 Lounging Capuchin	G	common	Creature – Monkey 	159	G	2G	ReachNEWLINEWhen Lounging Capuchin enters the battlefield, choose one –NEWLINE• Put a +1/+1 counter on Lounging Capuchin.NEWLINE• Make a Treasure token.	2/1		normal	WH1		

@@ -1,0 +1,1 @@
+﻿UR10 Parade Designer	R	uncommon	Creature – Human Artificer 	154	R	4R	ConvokeNEWLINEWhenever you cast a noncreature spell, create a 4/4 Dragon artifact creature token with haste. Exile it at the beginning of the next end step.	2/2		normal	WH1		*new*

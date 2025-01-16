@@ -1,0 +1,1 @@
+﻿CB03 Corvid Carriers	B	common	Creature – Bird 	82	B	2B	FlyingNEWLINEWhen you draw your second card each turn, target Zombie you control gains flying until end of turn.NEWLINEWhen Corvid Carriers enters the battlefield, create a 2/2 black Zombie creature token.	1/1		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: It now makes a 2/2 instead of Amassing 2. Downshifted to common.

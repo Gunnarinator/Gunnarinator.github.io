@@ -1,0 +1,1 @@
+﻿A08 Rite of Growth	UG	uncommon	Sorcery	203	UG	GU	Choose two:NEWLINE• Put a +1/+1 counter on target creature.NEWLINE• Put a trample counter on target creature.NEWLINE• Target permanent you control mimics. (For each type of counter among other permanents, you may put a counter of that type on the mimicking permanent.)			normal	WH1		

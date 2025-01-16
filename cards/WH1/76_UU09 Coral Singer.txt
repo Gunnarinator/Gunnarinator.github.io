@@ -1,0 +1,1 @@
+﻿UU09 Coral Singer	U	uncommon	Creature – Merfolk Bard 	76	U	1UU	Other creatures you control with counters on them get +1/+1.NEWLINE2U, T: Move a counter from a permanent you control to another permanent you control.	2/2		normal	WH1		*new*NEWLINENEWLINE- Bard is apparently a creature type as of AFR / D&D

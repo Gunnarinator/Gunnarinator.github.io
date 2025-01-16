@@ -1,0 +1,1 @@
+﻿CB16 Den Shades	B	common	Creature – Shade 	95	B	2B	At the beginning of your upkeep, mill a card.NEWLINEWilderness – Den Shades has shadow as long as there are eight or more cards among land cards in your graveyard and lands you control. (This creature can block or be blocked by only creatures with shadow.)	2/2		normal	WH1		*new*

@@ -1,0 +1,1 @@
+﻿MB02 Pray to the Dark	B	mythic	Sorcery	100	B	2BB	Repeat the following X times, where X is the number of card types among cards in your graveyard:NEWLINEEach opponent mills 2 cards, loses 2 life, and sacrifices a nonland permanent.			normal	WH1		

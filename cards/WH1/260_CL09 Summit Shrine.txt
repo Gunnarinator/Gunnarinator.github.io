@@ -1,0 +1,1 @@
+﻿CL09 Summit Shrine		special	Land	260	UR		Summit Shrine enters the battlefield tapped.NEWLINEWhen Summit Shrine enters the battlefield, sacrifice a land.NEWLINET: Add UR.			normal	WH1		

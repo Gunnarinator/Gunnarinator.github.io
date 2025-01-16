@@ -1,0 +1,1 @@
+﻿CU15 Skylight Thief	U	common	Creature – Human Rogue 	54	U	1U	1U: Put a skulk counter on Skylight Thief. (This creature can’t be blocked by creatures with greater power.)	2/2		normal	WH1		*new*

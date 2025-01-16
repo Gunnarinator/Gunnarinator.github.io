@@ -1,0 +1,1 @@
+﻿CG17 Mycoid Templar	G	common	Creature – Faerie Knight 	173	G	4G	Wilderness – Mycoid Templar gets +1/+0 and has trample as long as there are eight or more cards among land cards in your graveyard and lands you control.	5/5		normal	WH1		*new*

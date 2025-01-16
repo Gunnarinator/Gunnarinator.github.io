@@ -1,0 +1,1 @@
+﻿CU14 Ossodeilian Medic	U	common	Creature – Human Artificer 	53	U	U	Ossodeilian Medic enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.) (If it would be dealt damage or destroyed, remove a shield counter from it instead.)	0/3		normal	WH1		*new*

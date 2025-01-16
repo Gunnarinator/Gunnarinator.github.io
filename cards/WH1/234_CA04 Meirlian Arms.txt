@@ -1,0 +1,1 @@
+﻿CA04 Meirlian Arms		common	Artifact – Equipment 	234	C	1	When Meirlian Arms enters the battlefield or when a creature you control dies, put a charge counter on Meirlian Arms.NEWLINEEquipped creature gets +1/+0 for each charge counter on Meirlian Arms.NEWLINEEquip 2			normal	WH1		

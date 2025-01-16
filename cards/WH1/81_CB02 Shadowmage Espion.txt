@@ -1,0 +1,1 @@
+﻿CB02 Shadowmage Espion	B	common	Creature – Human Wizard 	81	B	1B	Whenever Shadowmage Espion attacks, it connives.NEWLINESacrifice Shadowmage Espion: Return target noncreature, nonland card from your graveyard to your hand. Activate this ability as a sorcery and only if Shadowmage Espion has four or more counters on it.	2/1		normal	WH1		

@@ -1,0 +1,1 @@
+﻿CB15 Shred to Threads	B	common	Instant	94	B	2B	Destroy target creature if it has mana value 3 or less.NEWLINEWilderness – Destroy that creature instead if there are eight or more cards among land cards in your graveyard and lands on the battlefield under your control.			normal	WH1		*new*

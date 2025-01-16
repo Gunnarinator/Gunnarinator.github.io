@@ -1,0 +1,1 @@
+﻿UL09 Seaside Cliff		uncommon	Land	250	C		T, Sacrifice Seaside Cliff: Search your library for a basic Island or basic Mountain card, put it on the battlefield, then shuffle.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

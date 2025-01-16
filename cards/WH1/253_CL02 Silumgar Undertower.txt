@@ -1,0 +1,1 @@
+﻿CL02 Silumgar Undertower		special	Land	253	UB		Silumgar Undertower enters the battlefield tapped.NEWLINEWhen Silumgar Undertower enters the battlefield, sacrifice a land.NEWLINET: Add UB.			normal	WH1		

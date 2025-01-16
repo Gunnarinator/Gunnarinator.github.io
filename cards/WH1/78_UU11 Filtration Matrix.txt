@@ -1,0 +1,1 @@
+﻿UU11 Filtration Matrix	U	uncommon	Artifact	78	U	U	1, T: Put a charge counter on Filtration Matrix.NEWLINET, Remove a charge counter from Filtration Matrix: Add CC.NEWLINE2, T, Remove a charge counter from Filtration Matrix: Draw a card.			normal	WH1		*new*NEWLINENEWLINEThe goal is "turn resources into other resources" but I’m just... not satisfied with it.

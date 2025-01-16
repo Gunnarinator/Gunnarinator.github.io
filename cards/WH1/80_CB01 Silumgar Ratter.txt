@@ -1,0 +1,1 @@
+﻿CB01 Silumgar Ratter	B	common	Creature – Orc Snake 	80	B	B	DeathtouchNEWLINEProtection from Rats	1/1		normal	WH1		

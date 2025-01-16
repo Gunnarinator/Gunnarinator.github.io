@@ -1,0 +1,1 @@
+﻿SL04 Shifting Peak		special	Land	265	C		Shifting Peak enters the battlefield with a Mountain counter on it. (It becomes a Mountain in addition to its other types and gains T: Add R.)			normal	WH1		

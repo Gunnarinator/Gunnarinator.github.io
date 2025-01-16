@@ -1,0 +1,1 @@
+﻿CL01 Shipwreck Landing		special	Land	252	WU		Shipwreck Landing enters the battlefield tapped.NEWLINEWhen Shipwreck Landing enters the battlefield, sacrifice a land.NEWLINET: Add WU.			normal	WH1		

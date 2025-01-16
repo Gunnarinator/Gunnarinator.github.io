@@ -1,0 +1,1 @@
+﻿Mask Spirit		common	Token Enchantment Creature – Mask Spirit 	1	C		This creature gets +1/+1 for each enchantment you control.	0/0		token	WH1		

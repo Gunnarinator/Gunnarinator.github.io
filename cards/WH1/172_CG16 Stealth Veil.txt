@@ -1,0 +1,1 @@
+﻿CG16 Stealth Veil	G	common	Instant	172	G	G	Target creature you control gains hexproof until end of turn.NEWLINEPut a +1/+1 counter or a vigilance counter on it.			normal	WH1		*new*

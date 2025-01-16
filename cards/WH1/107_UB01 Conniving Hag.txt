@@ -1,0 +1,1 @@
+﻿UB01 Conniving Hag	B	uncommon	Creature – Faerie Warlock 	107	B	B	2B, T, Reveal a card in your hand: Discard it, then return another target card in your graveyard that shares a type with that card to your hand.	2/1		normal	WH1		

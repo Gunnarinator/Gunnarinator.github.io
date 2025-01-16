@@ -1,0 +1,1 @@
+﻿CW15 Perfect Timing	W	common	Instant	15	W	1W	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEPrevent all damage that would be dealt to target creature this turn.NEWLINECreate a 1/1 white Soldier creature token.			normal	WH1		

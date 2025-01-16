@@ -1,0 +1,1 @@
+﻿CU06 Consign to the Mists	U	common	Instant	45	U	1U	Strive – Consign to the Mists costs 1U more to cast for each target beyond the first.NEWLINEReturn any number of target permanents to their owners hands.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed Walk the Mists to be a bounce spell, Seek the Glow is the evasion spell now.

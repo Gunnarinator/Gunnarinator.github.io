@@ -1,0 +1,1 @@
+﻿UB03 Wightlord Knight	B	uncommon	Creature – Zombie Knight 	109	B	4BB	When Wightlord Knight enters the battlefield, create two 2/2 black Zombie creature tokens.NEWLINEDelirium – Other black creatures you control have deathtouch as long as there are four or more card types among cards in your graveyard.	4/4		normal	WH1		*new*

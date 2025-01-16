@@ -1,0 +1,1 @@
+﻿UG12 March of Abzan Armies	G	uncommon	Enchantment	195	WBG	2G	When March of Abzan Armies enters the battlefield, create two 1/1 white Soldier creature tokens.NEWLINECreatures you control have “T, Tap another untapped creature you control: Add W, B, or G.”			normal	WH1		*new*

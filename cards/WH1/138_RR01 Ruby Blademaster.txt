@@ -1,0 +1,1 @@
+﻿RR01 Ruby Blademaster	R	rare	Creature – Elf Warrior 	138	R	2R	Haste, ProwessNEWLINERuby Blademaster has menace as long as you’ve cast a noncreature spell this turn.	3/3		normal	WH1		DarkwoodNEWLINENEWLINE*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed wording on menace ability.

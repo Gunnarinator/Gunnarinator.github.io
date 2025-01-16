@@ -1,0 +1,1 @@
+﻿CW13 Guiding Bolt	W	common	Instant	13	W	1W	Guiding Bolt deals 3 damage to target attacking or blocking creature.NEWLINEUp to one other target creature blocking or being blocked by that creature gains first strike until end of turn.			normal	WH1		D&D referenceNEWLINENEWLINEwhoa they get first strike, almost like they’d get advantage on their attack roll that’s crazy

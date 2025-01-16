@@ -1,0 +1,1 @@
+﻿CG05 Glade Defender	G	common	Creature – Human Warrior 	161	G	2G	Wilderness – You may cast Glade Defender as though it had flash if there are 8 or more lands in your graveyard and on the battlefield under your control.	4/3		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: realized that if W gets a 3/2 with flash, vig, green can get better than a 3/3 with conditional flash

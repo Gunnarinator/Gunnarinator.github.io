@@ -1,0 +1,1 @@
+﻿SL03 Shifting Mire		special	Land	264	C		Shifting Mire enters the battlefield with a Swamp counter on it. (It becomes a Swamp in addition to its other types and gains T: Add B.)			normal	WH1		

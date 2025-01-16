@@ -1,0 +1,1 @@
+﻿CA02 Wasteland Wanderer		common	Artifact Creature – Golem 	232	C	3	When Wasteland Wanderer enters the battlefield, search your library for a basic land card, put it in your graveyard, then shuffle.NEWLINEWhen Wasteland Wanderer dies, return target land card from your graveyard to the battlefield tapped.	2/2		normal	WH1		*new*

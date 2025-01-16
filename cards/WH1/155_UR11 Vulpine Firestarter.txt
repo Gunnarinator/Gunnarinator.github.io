@@ -1,0 +1,1 @@
+﻿UR11 Vulpine Firestarter	R	uncommon	Creature – Wolf Spirit 	155	R	3RR	2R: Creatures you control get +1/+0 and gain menace until end of turn.	4/4		normal	WH1		*new*

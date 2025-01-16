@@ -1,0 +1,1 @@
+﻿CR09 Coterie of the Damned	R	common	Sorcery	125	WR	2R	Create two 1/1 red Spirit creature tokens. If W was spent to cast this spell, create three of those tokens instead.			normal	WH1		

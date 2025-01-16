@@ -1,0 +1,1 @@
+﻿CR05 Cliffscaler Vigil	R	common	Creature – Human Warrior 	122	R	3R	MenaceNEWLINE1R: Cliffscaler Vigil gets +1/+0 and gains haste until end of turn.	4/3		normal	WH1		Tenric

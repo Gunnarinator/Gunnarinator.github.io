@@ -1,0 +1,1 @@
+﻿CL08 Verdant Port		special	Land	259	UG		Verdant Port enters the battlefield tapped.NEWLINEWhen Verdant Port enters the battlefield, sacrifice a land.NEWLINET: Add GU.			normal	WH1		

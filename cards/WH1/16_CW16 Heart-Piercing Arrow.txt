@@ -1,0 +1,1 @@
+﻿CW16 Heart-Piercing Arrow	W	common	Instant	16	WB	1W	Destroy target creature with power 4 or greater. If B was spent to cast this spell, that creature’s controller loses 1 life and you gain 1 life.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed formatting

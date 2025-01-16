@@ -1,0 +1,1 @@
+﻿UU07 Illusionist's Bluff	U	uncommon	Instant	74	U	1U	Create a 2/2 blue Illusion creature token that’s blocking target creature attacking you.NEWLINEDraw a card.			normal	WH1		*edited*NEWLINE*new*

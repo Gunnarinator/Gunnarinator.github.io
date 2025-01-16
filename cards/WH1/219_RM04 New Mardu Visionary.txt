@@ -1,0 +1,1 @@
+﻿RM04 New Mardu Visionary	RG	rare	Creature – Orc Warrior 	219	RG	2RG	MenaceNEWLINE1RG: Put a +1/+1 counter on each attacking creature you control.	3/2		normal	WH1		

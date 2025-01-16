@@ -1,0 +1,1 @@
+﻿CW06 Knight of Brighthall	W	common	Creature – Human Knight 	6	W	2WW	VigilanceNEWLINEWhenever Knight of Brighthall or another creature enters the battlefield, you gain 1 life.NEWLINEWhenever you gain life, Knight of Brighthall gets +1/+0 until end of turn.	2/4		normal	WH1		Brighthall is a cathedral in the RW church nation in the medieval setting

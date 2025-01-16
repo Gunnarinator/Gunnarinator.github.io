@@ -1,0 +1,1 @@
+﻿CL05 Giast Promenade		special	Land	256	WG		Giast Promenade enters the battlefield tapped.NEWLINEWhen Giast Promenade enters the battlefield, sacrifice a land.NEWLINET: Add GW.			normal	WH1		

@@ -1,0 +1,1 @@
+﻿MM04 Mightstealer Hydra	RG	mythic	Creature – Hydra 	209	RG	4RG	Whenever you pay mana to activate an ability of a permanent you control, put that many +1/+1 counters on Mightstealer Hydra.NEWLINER/G: Mightstealer Hydra gains trample until end of turn. Activate this ability only once each turn.	5/5		normal	WH1		

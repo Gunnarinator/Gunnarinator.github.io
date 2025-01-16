@@ -1,0 +1,1 @@
+﻿CB07 Find Prey	B	common	Sorcery	86	UB	2B	Surveil 2, then draw two cards. You lose 2 life unless U was spent to cast this spell. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard, then put the rest on top in any order.)			normal	WH1		

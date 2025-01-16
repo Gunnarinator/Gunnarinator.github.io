@@ -1,0 +1,1 @@
+﻿UR04 Kitewing Devastator	R	uncommon	Creature – Dragon 	147	R	4RR	FlyingNEWLINER: Kitewing Devastator gets +1/+0 until end of turn.	5/5		normal	WH1		

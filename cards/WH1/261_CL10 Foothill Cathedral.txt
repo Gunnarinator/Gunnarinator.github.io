@@ -1,0 +1,1 @@
+﻿CL10 Foothill Cathedral		special	Land	261	WR		Foothill Cathedral enters the battlefield tapped.NEWLINEWhen Foothill Cathedral enters the battlefield, sacrifice a land.NEWLINET: Add RW.			normal	WH1		

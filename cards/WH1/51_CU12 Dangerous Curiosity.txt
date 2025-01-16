@@ -1,0 +1,1 @@
+﻿CU12 Dangerous Curiosity	U	common	Instant	51	U	U	The next time target creature deals combat damage to a player this turn, draw a card, then that creature mimics. (For each type of counter among other permanents, you may put a counter of that type on the mimicking permanent.)			normal	WH1		

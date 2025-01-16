@@ -1,0 +1,1 @@
+﻿CG15 Stream Templar	G	common	Creature – Human Knight 	171	G	2G	VigilanceNEWLINEWilderness – Stream Templar gets +1/+2 as long as there are eight or more cards among land cards in your graveyard and lands on the battlefield under your control.	3/2		normal	WH1		*new*

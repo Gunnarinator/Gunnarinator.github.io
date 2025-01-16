@@ -1,0 +1,1 @@
+﻿CG10 Petal Rain	G	common	Enchantment – Aura 	166	G	1G	Enchant LandNEWLINEWhen Petal Rain enters the battlefield, choose a color.NEWLINEWhenever enchanted land is tapped for mana, add one mana of the chosen color.			normal	WH1		

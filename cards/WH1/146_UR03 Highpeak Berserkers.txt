@@ -1,0 +1,1 @@
+﻿UR03 Highpeak Berserkers	R	uncommon	Creature – Minotaur Warrior 	146	R	4R	HasteNEWLINEWhenever Highpeak Berserkers attacks, you may discard a card. If you do, draw a card.	4/4		normal	WH1		

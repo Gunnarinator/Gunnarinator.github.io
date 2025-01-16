@@ -1,0 +1,1 @@
+﻿UL10 Whitepeak Pass		uncommon	Land	251	C		T, Sacrifice Whitepeak Pass: Search your library for a basic Mountain or Plains card, put it on the battlefield, then shuffle your library.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

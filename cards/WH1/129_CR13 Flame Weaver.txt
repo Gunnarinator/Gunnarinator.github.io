@@ -1,0 +1,1 @@
+﻿CR13 Flame Weaver	R	common	Creature – Elf Wizard 	129	R	1R	Flame Weaver has +2/+0 as long as you’ve cast a noncreature spell this turn.	1/2		normal	WH1		*new*NEWLINENEWLINEboring

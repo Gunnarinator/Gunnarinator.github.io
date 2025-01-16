@@ -1,0 +1,1 @@
+﻿CG19 Elkrider Druid	G	common	Creature – Human Druid 	175	G	G	T: Add one mana of any color that a land card in your graveyard could produce.	0/2		normal	WH1		*new*

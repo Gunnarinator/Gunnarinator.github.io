@@ -1,0 +1,1 @@
+﻿Angel	W	common	Token Creature – Angel 	2	W		Flying, Vigilance	X/X		token	WH1		

@@ -1,0 +1,1 @@
+﻿UG06 Zadarian Behemoth	G	uncommon	Creature – Beast 	189	WRG	4GG	TrampleNEWLINE1R: Zadarian Behemoth gains menace until end of turn.NEWLINE1W: Zadarian Behemoth gains vigilance until end of turn.	6/6		normal	WH1		

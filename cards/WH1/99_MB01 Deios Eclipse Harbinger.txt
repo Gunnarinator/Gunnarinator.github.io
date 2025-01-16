@@ -1,0 +1,1 @@
+﻿MB01 Deios, Eclipse Harbinger	B	mythic	Legendary Creature – Angel Warrior 	99	B	3BB	Flying, LifelinkNEWLINEWhenever another source causes you to gain life, each opponent loses that much life.NEWLINEWhenever another sources causes an opponent to lose life, you gain that much life.	4/4		normal	WH1		

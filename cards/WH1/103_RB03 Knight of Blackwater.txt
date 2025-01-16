@@ -1,0 +1,1 @@
+﻿RB03 Knight of Blackwater	B	rare	Creature – Spirit Knight 	103	B	2BB	DeathtouchNEWLINEWhenever you draw your second card each turn, return Knight of Blackwater from your graveyard to your hand.	5/4		normal	WH1		

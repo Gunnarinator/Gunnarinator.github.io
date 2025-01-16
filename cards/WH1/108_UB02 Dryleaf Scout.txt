@@ -1,0 +1,1 @@
+﻿UB02 Dryleaf Scout	B	uncommon	Creature – Faerie Rogue 	108	B	1B	FlyingNEWLINEWhenever Dryleaf Scout deals damage to a player, you draw a card and lose 1 life.	1/1		normal	WH1		UBNEWLINENEWLINE*suspicious*

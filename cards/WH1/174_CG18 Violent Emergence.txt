@@ -1,0 +1,1 @@
+﻿CG18 Violent Emergence	G	common	Sorcery	174	G	1G	If Violent Emergence targets a creature you control with a counter on it, that creature gains indestructible until end of turn.NEWLINETarget creature you control fights another target creature.			normal	WH1		*new*NEWLINENEWLINEIt’s a fight, but it it targets a creature with a counter on it its effectively a bite.

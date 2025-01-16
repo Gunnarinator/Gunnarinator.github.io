@@ -1,0 +1,1 @@
+﻿CB06 Stand By	B	common	Instant	85	B	B	Remove target creature from combat. (It deals no damage and no damage is dealt to it.)NEWLINEYou lose 1 life.			normal	WH1		Nidus Vane is the villain from Aspects of May, the one set I did actually finish.

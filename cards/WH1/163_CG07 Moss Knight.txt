@@ -1,0 +1,1 @@
+﻿CG07 Moss Knight	G	common	Creature – Plant Knight 	163	RG	3GG	TrampleNEWLINE1R: Moss Knight gets +1/+0 until end of turn.	5/5		normal	WH1		Darkwood

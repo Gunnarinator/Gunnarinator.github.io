@@ -1,0 +1,1 @@
+﻿CR08 Cull the Artificial	R	common	Sorcery	124	R	1R	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEChoose one:NEWLINE• Destroy target artifact.NEWLINE• Cull the Artificial deals 2 damage to any target.			normal	WH1		

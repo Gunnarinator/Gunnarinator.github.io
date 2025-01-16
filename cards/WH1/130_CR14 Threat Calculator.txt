@@ -1,0 +1,1 @@
+﻿CR14 Threat Calculator	R	common	Artifact	130	R	R	When Threat Calculator enters or leaves the battlefield, scry 1.NEWLINER, T, Sacrifice Threat Calculator: Target creature can’t block this turn.			normal	WH1		*new*

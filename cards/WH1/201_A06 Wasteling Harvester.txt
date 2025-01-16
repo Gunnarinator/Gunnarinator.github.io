@@ -1,0 +1,1 @@
+﻿A06 Wasteling Harvester	WB	uncommon	Creature – Faerie Scout 	201	WB	1WB	Flying, LifelinkNEWLINEWhenever you gain life, create a 1/1 black Faerie Rogue creature token with flying. This ability triggers only once each turn.	1/2		normal	WH1		

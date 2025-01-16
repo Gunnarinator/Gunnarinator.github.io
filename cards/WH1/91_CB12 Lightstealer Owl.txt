@@ -1,0 +1,1 @@
+﻿CB12 Lightstealer Owl	B	common	Creature – Spirit Bird 	91	B	1B	FlyingNEWLINEWhen Lightstealer Owl enters the battlefield, each player discards a card.	1/1		normal	WH1		

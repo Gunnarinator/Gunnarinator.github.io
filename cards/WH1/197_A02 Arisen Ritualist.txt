@@ -1,0 +1,1 @@
+﻿A02 Arisen Ritualist	UB	uncommon	Creature – Zombie Wizard 	197	UB	1UB	Whenever you draw your second card each turn, create a 2/2 black Zombie creature token.	2/2		normal	WH1		Silumgar

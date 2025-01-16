@@ -1,0 +1,1 @@
+﻿CB17 Stinger Lancer	B	common	Creature – Faerie Knight 	96	B	1B	FlyingNEWLINEWhen Stinger Lancer enters the battlefield, if you gained life this turn, each opponent loses 2 life.	2/1		normal	WH1		*new*

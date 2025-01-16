@@ -1,0 +1,1 @@
+﻿CR01 Torchlight Elves	R	common	Creature – Elf Warrior 	118	R	R	T: Add R to your mana pool. Torchlight Elves deals 1 damage to target creature you control.	1/1		normal	WH1		Tenric 1

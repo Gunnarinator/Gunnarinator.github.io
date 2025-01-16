@@ -1,0 +1,1 @@
+﻿CU11 Uncover the Hidden	U	common	Sorcery	50	U	2U	Surveil 2, then you may return an artifact, instant, or sorcery card from your graveyard to your hand.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed from noncreature to "artifact, instant, or sorcery"NEWLINENEWLINESelem is a sentient planeswalking sword whose magic mostly involved giving power to his wielder.

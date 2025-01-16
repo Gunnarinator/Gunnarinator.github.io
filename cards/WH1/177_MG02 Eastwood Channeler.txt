@@ -1,0 +1,1 @@
+﻿MG02 Eastwood Channeler	G	mythic	Creature – Elf Noble 	177	G	1G	XGG, T: Return target nonland card with mana value X from your graveyard to your hand.	0/3		normal	WH1		*new*NEWLINE*edited*

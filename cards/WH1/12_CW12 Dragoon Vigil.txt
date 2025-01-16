@@ -1,0 +1,1 @@
+﻿CW12 Dragoon Vigil	W	common	Creature – Human Knight 	12	W	4W	FlyingNEWLINEWhenever Dragoon Vigil attacks or blocks, another target attacking or blocking creature gets +2/+2 until end of turn.	3/3		normal	WH1		*new*

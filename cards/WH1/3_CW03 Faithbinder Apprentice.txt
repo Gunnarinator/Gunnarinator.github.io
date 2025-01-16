@@ -1,0 +1,1 @@
+﻿CW03 Faithbinder Apprentice	W	common	Creature – Human Cleric 	3	W	1W	Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on Faithbinder Apprentice, then you gain 1 life.	2/2		normal	WH1		

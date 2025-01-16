@@ -1,0 +1,1 @@
+﻿CG14 Oakhelm Archer	G	common	Creature – Elf Archer 	170	G	2G	ReachNEWLINE1G, Discard a land card: Put a +1/+1 counter on Oakhelm Archer. Activate only as a sorcery.	2/3		normal	WH1		*new*NEWLINENEWLINEYo its 3 of the 4 green things all at once 

@@ -1,0 +1,1 @@
+﻿UL02 Forsaken Shrine		uncommon	Land	243	C		T, Sacrifice Forsaken Shrine: Search your library for a basic Island or basic Swamp card, put it on the battlefield, then shuffle.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

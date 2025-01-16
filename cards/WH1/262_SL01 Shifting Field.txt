@@ -1,0 +1,1 @@
+﻿SL01 Shifting Field		special	Land	262	C		Shifting Field enters the battlefield with a Plains counter on it. (It becomes a Plains in addition to its other types and gains T: Add W.)			normal	WH1		

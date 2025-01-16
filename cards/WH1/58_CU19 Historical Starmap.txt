@@ -1,0 +1,1 @@
+﻿CU19 Historical Starmap	U	common	Artifact	58	U	U	When Historical Starmap enters or leaves the battlefield, scry 1.NEWLINEU, T, Sacrifice Historical Starmap: Draw a card.			normal	WH1		*new*

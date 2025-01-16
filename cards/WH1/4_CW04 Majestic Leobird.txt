@@ -1,0 +1,1 @@
+﻿CW04 Majestic Leobird	W	common	Creature – Cat Bird 	4	W	2W	FlyingNEWLINEWhen Majestic Leobird enters the battlefield, target creature gains flying until end of turn.	2/2		normal	WH1		

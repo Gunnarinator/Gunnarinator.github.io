@@ -1,0 +1,1 @@
+﻿CW14 Tip the Scales	W	common	Instant	14	W	W	Choose two:NEWLINE• Target creature gets +2/+0 until end of turn.NEWLINE• Target creature gets +0/+2 until end of turn.NEWLINE• Draw a card.			normal	WH1		Fire Emblem reference,NEWLINENEWLINEone of Robin’s critical hit quotes is "It’s time to tip the scales"

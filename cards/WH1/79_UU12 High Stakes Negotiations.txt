@@ -1,0 +1,1 @@
+﻿UU12 High Stakes Negotiations	U	uncommon	Sorcery	79	U	2U	Council’s dilemma – Starting with you, each player may vote for wisdom, fortune, or might. For each wisdom vote, you draw a card. For each fortune vote, you create two Treasure tokens. For each might vote, you create two 1/1 colorless Soldier artifact creature tokens.			normal	WH1		*new*

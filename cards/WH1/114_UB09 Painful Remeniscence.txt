@@ -1,0 +1,1 @@
+﻿UB09 Painful Remeniscence	B	uncommon	Sorcery	114	B	2B	Each opponent loses X life and you gain X life, where X is the number of card types among cards in your graveyard.			normal	WH1		*new*

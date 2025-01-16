@@ -1,0 +1,1 @@
+﻿A03 Dusk Rider	BR	uncommon	Creature – Vampire Noble 	198	BR	1BR	Delirium – As long as there are four or more card types among cards in your graveyard, A03 Dusk Rider gets +2/+1 and has menace.	3/2		normal	WH1		

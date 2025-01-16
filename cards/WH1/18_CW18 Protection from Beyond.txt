@@ -1,0 +1,1 @@
+﻿CW18 Protection from Beyond	W	common	Enchantment – Aura 	18	W	W	Enchant CreatureNEWLINEEnchanted creature gets +1/+1.NEWLINE1W, Exile target card from a graveyard: Enchanted creature gets +0/+1 until end of turn.			normal	WH1		

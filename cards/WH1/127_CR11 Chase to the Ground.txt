@@ -1,0 +1,1 @@
+﻿CR11 Chase to the Ground	R	common	Instant	127	R	3R	Chase to the Ground deals 1 damage to each creature target opponent controls. Those creatures lose flying until end of turn.			normal	WH1		

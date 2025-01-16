@@ -1,0 +1,1 @@
+﻿UL07 Mossed Sepulcher		uncommon	Land	248	C		T, Sacrifice Mossed Sepulcher: Search your library for a basic Swamp or basic Forest card, put it on the battlefield, then shuffle.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

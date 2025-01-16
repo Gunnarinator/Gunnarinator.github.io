@@ -1,0 +1,1 @@
+﻿UA01 Brass Icewalkers		uncommon	Artifact Creature – Construct 	239	UR	4	Brass Icewalkers enters the battlefield with a +1/+1 counter on it if U was spent to cast it.NEWLINEBrass Icewalkers enters the battlefield with a haste counter on it if R was spent to cast it.	3/2		normal	WH1		

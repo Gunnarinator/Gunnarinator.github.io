@@ -1,0 +1,1 @@
+﻿UW02 Venerated Wardshield	W	uncommon	Creature – Human Soldier 	29	W	1W	Other creatures you control have ward 2. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)	2/2		normal	WH1		I think I made this for survivor as a hatebear, but I forget what the challenge was.

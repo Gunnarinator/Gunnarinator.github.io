@@ -1,0 +1,1 @@
+﻿RA02 Imperfect Reflection		rare	Artifact	238	C	5	You may have Imperfect Reflection enter the battlefield as a copy of target artifact or creature.NEWLINEWhen Imperfect Reflection enters the battlefield, it mimics. (For each type of counter among other permanents, you may put a counter of that type on the mimicking permanent.)			normal	WH1		

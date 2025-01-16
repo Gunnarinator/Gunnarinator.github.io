@@ -1,0 +1,1 @@
+﻿UU03 Stardust Fox	U	uncommon	Creature – Fox Elemental 	70	U	2U	ProwessNEWLINEWhenever you cast a noncreature spell, scry 1.	2/2		normal	WH1		

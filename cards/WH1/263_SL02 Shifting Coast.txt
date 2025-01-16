@@ -1,0 +1,1 @@
+﻿SL02 Shifting Coast		special	Land	263	C		Shifting Coast enters the battlefield with an Island counter on it. (It becomes an Island in addition to its other types and gains T: Add U.)			normal	WH1		

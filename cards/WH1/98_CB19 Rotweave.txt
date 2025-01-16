@@ -1,0 +1,1 @@
+﻿CB19 Rotweave	B	common	Instant	98	B	BB	Put two -1/-1 counters on target creature.NEWLINEYou gain 2 life.			normal	WH1		*new*

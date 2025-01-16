@@ -1,0 +1,1 @@
+﻿CA03 River Bauble		common	Artifact – Clue 	233	C	1	(2, Sacrifice River Bauble: Draw a card.)NEWLINE1, T: Add one mana of any color to your mana pool.			normal	WH1		

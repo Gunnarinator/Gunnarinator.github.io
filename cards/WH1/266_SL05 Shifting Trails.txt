@@ -1,0 +1,1 @@
+﻿SL05 Shifting Trails		special	Land	266	C		Shifting Trails enters the battlefield with a Forest counter on it. (It becomes a Forest in addition to its other types and gains T: Add G.)			normal	WH1		

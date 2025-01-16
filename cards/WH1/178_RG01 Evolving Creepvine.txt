@@ -1,0 +1,1 @@
+﻿RG01 Evolving Creepvine	G	rare	Creature – Plant 	178	G	G	Whenever a land enters the battlefield under your control, if it was a Forest, put a +1/+1 counter on Evolving Creepvine. Otherwise, you may pay G. If you do, put a +1/+1 counter on Evolving Creepvine.	1/1		normal	WH1		

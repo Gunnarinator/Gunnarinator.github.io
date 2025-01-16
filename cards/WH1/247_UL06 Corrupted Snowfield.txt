@@ -1,0 +1,1 @@
+﻿UL06 Corrupted Snowfield		uncommon	Land	247	C		T, Sacrifice Corrupted Snowfield: Search your library for a basic Plains or basic Swamp card, put it on the battlefield, then shuffle.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

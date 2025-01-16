@@ -1,0 +1,1 @@
+﻿UW07 Patient Prayer	W	uncommon	Enchantment – Aura 	34	W	1W	Enchant creatureNEWLINEEnchanted creature has vigilance.NEWLINEAt the beginning of your end step, put a +1/+1 counter on enchanted creature.			normal	WH1		

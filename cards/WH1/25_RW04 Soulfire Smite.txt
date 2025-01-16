@@ -1,0 +1,1 @@
+﻿RW04 Soulfire Smite	W	rare	Instant	25	W	W	Exile target creature or planeswalker. Its controller draws two cards.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed formattingNEWLINENEWLINE"Whoa what if I had Swords to Plowshares or Path to Exile but for card draw"

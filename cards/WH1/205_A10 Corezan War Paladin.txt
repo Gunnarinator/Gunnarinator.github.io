@@ -1,0 +1,1 @@
+﻿A10 Corezan War Paladin	WR	uncommon	Creature – Human Cleric Knight 	205	WR	RW	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEHasteNEWLINEWhenever you cast another spell with convoke, put a +1/+1 counter on A10 Corezan War Paladin. 	2/2		normal	WH1		

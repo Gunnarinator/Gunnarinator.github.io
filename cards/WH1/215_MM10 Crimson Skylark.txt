@@ -1,0 +1,1 @@
+﻿MM10 Crimson Skylark	WR	mythic	Creature – Bird Elemental 	215	WR	XRW	Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)NEWLINEFlyingNEWLINEWhen Crimson Skylark enters the battlefield, put X +1/+1 counters on it, then it deals X damage to any target.	1/1		normal	WH1		

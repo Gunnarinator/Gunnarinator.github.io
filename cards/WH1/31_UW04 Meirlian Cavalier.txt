@@ -1,0 +1,1 @@
+﻿UW04 Meirlian Cavalier	W	uncommon	Creature – Human Knight 	31	W	3WW	When Meirlian Cavalier enters the battlefield, create a 1/1 white Soldier creature token.NEWLINEWhenever another creature you control dies, you gain 1 life.	4/4		normal	WH1		

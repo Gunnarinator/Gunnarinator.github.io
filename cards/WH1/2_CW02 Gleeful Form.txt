@@ -1,0 +1,1 @@
+﻿CW02 Gleeful Form	W	common	Enchantment – Aura 	2	W	W	Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has lifelink.NEWLINEBind W (You may cast this spell for its Bind cost. If you do, create a colorless 0/0 Mask artifact creature token, then attach this to it.)			normal	WH1		Came up with Bind for Tokata, who I roleplayed as for a bit.

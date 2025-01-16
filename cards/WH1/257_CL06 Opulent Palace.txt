@@ -1,0 +1,1 @@
+﻿CL06 Opulent Palace		special	Land	257	WB		Opulent Palace enters the battlefield tapped.NEWLINEWhen Opulent Palace enters the battlefield, sacrifice a land.NEWLINET: Add WB.			normal	WH1		Aljana

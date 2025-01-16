@@ -1,0 +1,1 @@
+﻿CG02 Sleepy Axonfox	G	common	Creature – Plant Fox 	158	G	1G	2G: Sleepy Axonfox gets +2/+2 until end of turn.	2/2		normal	WH1		

@@ -1,0 +1,1 @@
+﻿UB10 Cloak of Dandelions	B	uncommon	Enchantment – Aura 	115	B	B	Enchant creature you controlNEWLINEEnchanted creature gets +0/+1 and has “When this creature dies, return it to the battlefield under its owner’s control.”			normal	WH1		*new*

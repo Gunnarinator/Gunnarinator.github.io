@@ -1,0 +1,1 @@
+﻿RG02 Hinist Recycler	G	rare	Creature – Naga Shaman 	179	G	1G	Whenever another creature dies, if it had first strike, you may put a first strike counter on target creature. Do the same for flying, deathtouch, double strike, haste, lifelink, menace, reach, trample, and vigilance.	2/2		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: made it "you may put a counter"

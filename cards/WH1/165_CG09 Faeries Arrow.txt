@@ -1,0 +1,1 @@
+﻿CG09 Faerie's Arrow	G	common	Instant	165	G	2G	Destroy target artifact, enchantment, or creature with flying.NEWLINEPut a +1/+1 counter on up to one target creature you control.			normal	WH1		

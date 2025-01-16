@@ -1,0 +1,1 @@
+﻿UR01 Thundercrack Barbarian	R	uncommon	Creature – Human Warrior 	144	R	R	HasteNEWLINEWhenever you cast an instant or sorcery spell, Thundercrack Barbarian gets +2/+1 until end of turn.	1/1		normal	WH1		*suspicious*NEWLINENEWLINEThis card is literally just a better Monastery Swiftspear which is already one of the best cards in burn

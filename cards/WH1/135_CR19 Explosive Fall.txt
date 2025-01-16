@@ -1,0 +1,1 @@
+﻿CR19 Explosive Fall	R	common	Sorcery	135	R	3RR	As an additional cost to cast Explosive Fall, you may remove a charge counter from an artifact you control. Explosive Fall costs 2 less to cast if a counter was removed this way.NEWLINEExplosive Fall deals 5 damage to target creature.			normal	WH1		*new*

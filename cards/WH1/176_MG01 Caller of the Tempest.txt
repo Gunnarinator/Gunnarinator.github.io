@@ -1,0 +1,1 @@
+﻿MG01 Caller of the Tempest	G	mythic	Creature – Human Hydra Shaman 	176	UG	XGG	When Caller of the Tempest enters the battlefield, create a 0/0 blue and green Hydra creature token with X +1/+1 counters and a trample counter on it. If UU was spent to cast Caller of the Tempest, put a flying counter on it.	2/2		normal	WH1		

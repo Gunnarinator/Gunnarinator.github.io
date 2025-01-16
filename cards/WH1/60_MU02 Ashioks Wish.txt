@@ -1,0 +1,1 @@
+﻿MU02 Ashiok's Wish	U	mythic	Sorcery	60	U	5UU	Each opponent exiles the top ten cards of their library. For each land card exiled this way, create a Treasure token. For each creature card exiled this way, create a 2/3 black Nightmare creature token. For each nonland, noncreature card exiled this way, draw a card.NEWLINEExile Ashiok’s Wish.			normal	WH1		

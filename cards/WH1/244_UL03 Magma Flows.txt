@@ -1,0 +1,1 @@
+﻿UL03 Magma Flows		uncommon	Land	244	C		T, Sacrifice Magma Flows: Search your library for a basic Swamp or basic Mountain card, put it on the battlefield, then shuffle.			normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Set to uncommon

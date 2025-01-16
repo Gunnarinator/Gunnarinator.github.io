@@ -1,0 +1,1 @@
+﻿UG11 Athallden Huntmaster	G	uncommon	Creature – Orc Warrior 	194	G	3GG	Wilderness – At the beginning of combat on your turn, if the number of cards among land cards in your graveyard and lands you control is eight or more, create a 2/2 green Wolf creature token. It gains haste until end of turn.	4/4		normal	WH1		*new*

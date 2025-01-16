@@ -1,0 +1,1 @@
+﻿CB04 Lonely Rider	B	common	Creature – Human Warrior 	83	B	2B	When you draw your second card each turn, Lonely Rider gets +1/+0 and gains menace until end of turn.	3/2		normal	WH1		

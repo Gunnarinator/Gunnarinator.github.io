@@ -1,0 +1,1 @@
+﻿TM04 Champion of Foul Lands	BRG	rare	Creature – Skeleton Warrior 	229	BRG	B/RR/G	MenaceNEWLINEAt the beginning of your upkeep, you may discard a card.NEWLINEWhenever a land card enters your graveyard from anywhere, put a +1/+1 counter on TM04 Champion of Foul Lands.	2/2		normal	WH1		

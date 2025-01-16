@@ -1,0 +1,1 @@
+﻿CG13 Bearheart Warrior	G	common	Creature – Human Warrior 	169	G	1G	Wilderness – At the beginning of combat on your turn, put a +1/+1 counter on Bearheart Warrior if there are 8 or more land cards in your graveyard and on the battlefield under your control.	2/2		normal	WH1		

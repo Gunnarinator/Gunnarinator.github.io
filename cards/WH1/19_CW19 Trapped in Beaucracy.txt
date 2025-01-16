@@ -1,0 +1,1 @@
+﻿CW19 Trapped in Beaucracy	W	common	Enchantment – Aura 	19	W	2W	ConvokeNEWLINEEnchant creature or artifactNEWLINEEnchanted permanent can’t attack or block, and its activated abilities can’t be activated.			normal	WH1		*new*

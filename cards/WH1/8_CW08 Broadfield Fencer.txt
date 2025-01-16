@@ -1,0 +1,1 @@
+﻿CW08 Broadfield Fencer	W	common	Creature – Elf Warrior 	8	W	1W	Broadfield Fencer has first strike as long as its enchanted or equipped.	2/2		normal	WH1		*new*

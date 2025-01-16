@@ -1,0 +1,1 @@
+﻿UB08 Will of Selem	B	uncommon	Instant	113	B	B	Target creature gains first strike and deathtouch until end of turn.			normal	WH1		

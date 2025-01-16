@@ -1,0 +1,1 @@
+﻿CR18 Fleeting Inspiration	R	common	Sorcery	134	R	1R	Exile the top two cards of your library. You may play those cards this turn. At the beginning of your end step, put all cards exiled with Fleeting Inspiration in exile into your graveyard.			normal	WH1		*new*NEWLINENEWLINEboring, the "red card draw" slot is already filled.

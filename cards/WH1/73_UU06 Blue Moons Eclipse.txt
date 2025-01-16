@@ -1,0 +1,1 @@
+﻿UU06 Blue Moon's Eclipse	U	uncommon	Sorcery	73	U	4U	Choose three. You may choose the same mode more than once.NEWLINE• Return target nonland permanent to its owner’s hand.NEWLINE• Draw a card.NEWLINE• Target creature gets +1/+1 and gains flying until end of turn.			normal	WH1		

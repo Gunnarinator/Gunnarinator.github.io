@@ -1,0 +1,1 @@
+﻿RR04 Fort-Terror Drake	R	rare	Creature – Dragon 	141	R	4RR	FlyingNEWLINE3RR: Fort-Terror Drake deals 2 damage to each creature without flying and each player. Activate this ability only as a sorcery.	5/5		normal	WH1		

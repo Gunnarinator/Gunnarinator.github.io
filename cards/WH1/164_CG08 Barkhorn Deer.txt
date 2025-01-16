@@ -1,0 +1,1 @@
+﻿CG08 Barkhorn Deer	G	common	Creature – Elk Elemental 	164	G	4G	ReachNEWLINEBarkhorn Deer enters the battlefield with five +1/+1 counters on it.	0/1		normal	WH1		

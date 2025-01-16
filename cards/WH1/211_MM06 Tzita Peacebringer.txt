@@ -1,0 +1,1 @@
+﻿MM06 Tzita, Peacebringer	WB	mythic	Legendary Creature – Horror 	211	WB	2WB	At the beginning of each end step, if you gained 3 or more life this turn or an opponent lost 3 or more life this turn, create a 2/3 black Nightmare creature token.NEWLINE2BB: Tzita, Peacebringer gains menace and deathtouch until end of turn.	3/5		normal	WH1		*new*NEWLINE*edited*

@@ -1,0 +1,1 @@
+﻿CR03 Shocklance Riders	R	common	Creature – Human Warrior 	120	R	2R	Haste, Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)	2/2		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Renamed from "Boltlance" to "Shocklance", changed flavor text to not say "bolt of lightning" to avoid invoking the image of Lightning Bolt.

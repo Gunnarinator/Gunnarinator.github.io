@@ -1,0 +1,1 @@
+﻿CB18 Duress	B	common	Sorcery	97	B	B	Target opponent reveals their hand. You choose a noncreature, nonland card from among them. That player discards that card.			normal	WH1		*new*

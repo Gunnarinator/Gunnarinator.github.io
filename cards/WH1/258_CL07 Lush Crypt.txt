@@ -1,0 +1,1 @@
+﻿CL07 Lush Crypt		special	Land	258	BG		Lush Crypt enters the battlefield tapped.NEWLINEWhen Lush Crypt enters the battlefield, sacrifice a land.NEWLINET: Add BG.			normal	WH1		

@@ -1,0 +1,1 @@
+﻿RW03 Prophet of Hago	W	rare	Creature – Angel Cleric 	24	W	2WW	FlyingNEWLINEProphet of Hago has +X/+X, where X is the amount of life you’ve gained this turn.NEWLINE2W: You gain 1 life.	3/3		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed wording on +X/+X abilityNEWLINENEWLINEHago is a god in the D&D campaign I’m running 

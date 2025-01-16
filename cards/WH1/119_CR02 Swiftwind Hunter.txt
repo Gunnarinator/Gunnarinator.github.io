@@ -1,0 +1,1 @@
+﻿CR02 Swiftwind Hunter	R	common	Creature – Elf Warrior 	119	R	1R	At the beginning each combat, if you cast a noncreature spell this turn, untap Swiftwind Hunter.	2/1		normal	WH1		Darkwood

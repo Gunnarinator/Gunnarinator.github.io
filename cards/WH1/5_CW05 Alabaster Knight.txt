@@ -1,0 +1,1 @@
+﻿CW05 Alabaster Knight	W	common	Creature – Human Knight 	5	W	2W	FlashNEWLINEVigilance	3/2		normal	WH1		

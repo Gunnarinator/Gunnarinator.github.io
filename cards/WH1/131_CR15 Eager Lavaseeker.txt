@@ -1,0 +1,1 @@
+﻿CR15 Eager Lavaseeker	R	uncommon	Creature – Human Rogue 	131	R	1R	Whenever you cast a noncreature spell, choose one:NEWLINE• Eager Lavaseeker deals 1 damage to each opponent.NEWLINE• Put a charge counter on target artifact you control.	1/2		normal	WH1		*new*

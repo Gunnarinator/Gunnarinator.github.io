@@ -1,0 +1,1 @@
+﻿Faerie Knight	W	common	Token Creature – Faerie Knight 	4	W		Flying	1/1		token	WH1		

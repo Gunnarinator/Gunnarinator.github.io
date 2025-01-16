@@ -1,0 +1,1 @@
+﻿A04 Leafwing Dryad	RG	uncommon	Creature – Dryad Angel 	199	RG	RG	TrampleNEWLINEWhenever you activate an ability of a nonland permanent you control, put a +1/+1 counter on A04 Leafwing Dryad. This ability triggers only once each turn.	2/2		normal	WH1		

@@ -1,0 +1,1 @@
+﻿MM02 Mavagia, Herald of Ruin	UB	mythic	Legendary Planeswalker – Mavagia 	207	UB	1UB			[+1]: Draw a card, then discard a card.NEWLINE[-1]: Create a 2/2 black Zombie creature token.NEWLINE[-2]: Target opponent discards a card and loses 2 life.	planeswalker	WH1	3	

@@ -1,0 +1,1 @@
+﻿CU17 Prediscern	U	common	Instant	56	U	U	Scry 2, then reveal the top card of your library. If it’s an artifact, instant, or sorcery card, you may put it in your hand.			normal	WH1		*new*NEWLINENEWLINEKinda sorta based on the Invent keyword that was going to be in the medieval setting (Shuffle, then reveal the top card, it it’s an artifact, put it in your hand.)

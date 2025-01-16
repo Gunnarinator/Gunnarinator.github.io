@@ -1,0 +1,1 @@
+﻿RW01 Ivory Blademaster	W	rare	Creature – Elf Warrior 	22	W	2W	Vigilance, ProwessNEWLINEIvory Blademaster has first strike as long as you’ve cast a noncreature spell this turn.	3/3		normal	WH1		*edited*NEWLINENEWLINEFrom 0 to 0.1: Changed wording on first strike ability.NEWLINENEWLINEWas going to be part of Darkwood, premise of the set was "what if we had a set with 0 humans" 

@@ -1,0 +1,1 @@
+﻿CR17 Sassy Swordplay	R	common	Sorcery	133	R	R	Target creature gets +1/+0 and gains first strike and haste until end of turn.NEWLINEFlashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	WH1		*new*

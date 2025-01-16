@@ -1,0 +1,1 @@
+﻿CB05 Cherrybloom Biter	B	common	Creature – Faerie 	84	B	1BB	FlyingNEWLINE1B, Pay 1 life: Cherrybloom Biter gets +1/+1 until end of turn.	2/2		normal	WH1		Was going to be part of Darkwood, premise of the set was "what if we had a set with 0 humans"NEWLINENEWLINEUB Faeries was going to be a thing.

@@ -1,0 +1,1 @@
+﻿CG11 Strength in Variety	G	common	Instant	167	G	1G	Target creature you control gets +2/+2 until end of turn. It mimics. (For each type of counter among other permanents, you may put a counter of that type on the mimicking permanent.)			normal	WH1		

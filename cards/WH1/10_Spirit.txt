@@ -1,0 +1,1 @@
+﻿Spirit	R	common	Token Creature – Spirit 	10	R			1/1		token	WH1		

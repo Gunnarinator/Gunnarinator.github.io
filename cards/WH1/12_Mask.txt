@@ -1,0 +1,1 @@
+﻿Mask		common	Token Artifact Creature – Mask 	12	C			0/0		token	WH1		

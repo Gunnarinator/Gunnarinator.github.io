@@ -1,0 +1,1 @@
+﻿UR05 Hunter's Blood Rite	R	uncommon	Instant	148	R	1H/R	Target creature gets +2/+0 until end of turn. Until end of turn, that creature’s activated abilities cost 2 less to activate.			normal	WH1		

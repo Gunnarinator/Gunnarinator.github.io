@@ -1,0 +1,1 @@
+﻿UR06 Hellkite's Fury	R	uncommon	Instant	149	R	1R	Add RRRR. This mana can’t be spent to cast spells.NEWLINEUntil end of turn, creatures you control gain “1R: This creature gets +2/+0 until end of turn.”			normal	WH1		

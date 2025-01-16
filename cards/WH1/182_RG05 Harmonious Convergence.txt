@@ -1,0 +1,1 @@
+﻿RG05 Harmonious Convergence	G	rare	Sorcery	182	G	XGG	Put X +1/+1 counters on each of up to three target creatures. Those creatures each gain trample and haste until end of turn.			normal	WH1		

@@ -1,0 +1,1 @@
+﻿CW07 Corezan Iconoclast	W	common	Creature – Human Knight 	7	W	2W	When Corezan Iconoclast enters the battlefield, destroy up to one target artifact or enchantment.	2/2		normal	WH1		*new*

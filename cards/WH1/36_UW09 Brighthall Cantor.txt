@@ -1,0 +1,1 @@
+﻿UW09 Brighthall Cantor	W	uncommon	Creature – Human Cleric 	36	W	2W	XWW: Target enchanted creature or non-Aura enchantment you control becomes a creature in addition to its other types and has base power and toughness X/X until end of turn.	0/4		normal	WH1		*new*
