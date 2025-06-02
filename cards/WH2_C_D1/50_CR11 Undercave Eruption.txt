@@ -1,0 +1,1 @@
+﻿CR11 Undercave Eruption	R	common	Sorcery	50	UR	4RR	Undercave Eruption deals 6 damage to target creature or planeswalker.NEWLINEU/RU/R, Discard Undercave Eruption: Create a Treasure token.			normal	WH2_C_D1		

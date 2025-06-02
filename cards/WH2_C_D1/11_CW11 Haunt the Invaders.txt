@@ -1,0 +1,1 @@
+﻿CW11 Haunt the Invaders	W	common	Instant	11	WB	1W	Until end of turn, target artifact or non-Aura enchantment becomes a 4/4 Angel creature with flying in addition to its other types.NEWLINEFlashback 3B (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	WH2_C_D1		

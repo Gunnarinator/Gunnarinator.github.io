@@ -1,0 +1,1 @@
+﻿CW07 Alpine Ralliers	W	common	Creature – Human Knight 	7	W	3WW	Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)NEWLINEWhenever this creature mentors a creature token, put another +1/+1 counter on that token.	4/3		normal	WH2_C_D1		

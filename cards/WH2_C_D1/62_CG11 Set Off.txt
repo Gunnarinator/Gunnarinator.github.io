@@ -1,0 +1,1 @@
+﻿CG11 Set Off	G	common	Sorcery	62	G	G	Search your library for a basic land card, reveal it, put it in your hand, then shuffle.NEWLINEPut a +1/+1 counter on up to one target creature you control.			normal	WH2_C_D1		

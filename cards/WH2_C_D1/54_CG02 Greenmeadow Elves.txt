@@ -1,0 +1,1 @@
+﻿CG02 Greenmeadow Elves	G	common	Creature – Elf Druid 	54	G	1G	Paradox – Whenever you cast a spell from anywhere other than your hand, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)	2/2		normal	WH2_C_D1		

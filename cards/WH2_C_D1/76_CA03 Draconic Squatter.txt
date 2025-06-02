@@ -1,0 +1,1 @@
+﻿CA03 Draconic Squatter		common	Artifact Creature – Shapeshifter 	76	C	5	Changeling (This card is every creature type.)NEWLINEWhen this creature attacks, discard a card, then draw a card.NEWLINELaircycling 1 (1, Discard this card: Search your library for a Lair card, reveal it, put it into your hand, then shuffle.)	3/3		normal	WH2_C_D1		

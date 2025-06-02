@@ -1,0 +1,1 @@
+﻿CL04 Bouldered Vista		common	Land	83	RG		This land enters tapped.NEWLINEWhen you discard this card, you gain 2 life.NEWLINET: Add R or G.			normal	WH2_C_D1		

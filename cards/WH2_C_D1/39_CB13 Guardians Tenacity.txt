@@ -1,0 +1,1 @@
+﻿CB13 Guardian's Tenacity	B	common	Enchantment – Aura 	39	B	B	Enchant creature you controlNEWLINEEnchanted creature gets +2/+0.NEWLINEWhen enchanted creature dies, if it was a token, return Guardian’s Tenacity to its owner’s hand. Otherwise, return that card to the battlefield under your control.			normal	WH2_C_D1		Tokens, Civil

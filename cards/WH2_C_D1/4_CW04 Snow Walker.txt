@@ -1,0 +1,1 @@
+﻿CW04 Snow Walker	W	common	Artifact Creature – Scout 	4	W	2W	When this creature enters, if it isn’t a token and you control an enchantment, make a token that’s a copy of it.	2/2		normal	WH2_C_D1		

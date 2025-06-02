@@ -1,0 +1,1 @@
+﻿CW09 Mother's Love	W	common	Instant	9	W	4W	This spell costs 2 less to cast if it targets a tapped creature.NEWLINEThis spell costs 2 less to cast if it targets a creature with power 4 or greater.NEWLINEDestroy target creature.			normal	WH2_C_D1		

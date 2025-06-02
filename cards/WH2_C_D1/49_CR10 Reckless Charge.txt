@@ -1,0 +1,1 @@
+﻿CR10 Reckless Charge	R	common	Sorcery	49	R	R	Target creature gets +3/+0 and gains haste until end of turn.NEWLINEFlashback 2R (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	WH2_C_D1		

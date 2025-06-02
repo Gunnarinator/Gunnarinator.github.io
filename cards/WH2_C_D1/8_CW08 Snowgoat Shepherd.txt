@@ -1,0 +1,1 @@
+﻿CW08 Snowgoat Shepherd	W	common	Creature – Human Peasant 	8	W	2W	Creature tokens you control get +1/+0.	2/2		adventure	WH2_C_D1		Kid Runaway	W	Instant – Adventure 	W	1W	Create two 0/1 white Goat creature tokens.				

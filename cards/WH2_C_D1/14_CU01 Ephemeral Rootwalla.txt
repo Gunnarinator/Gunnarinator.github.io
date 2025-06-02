@@ -1,0 +1,1 @@
+﻿CU01 Ephemeral Rootwalla	U	common	Creature – Lizard 	14	U	U	1U: This creature gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn.NEWLINEMadness 0 (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)	1/1		normal	WH2_C_D1		

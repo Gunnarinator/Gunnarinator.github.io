@@ -1,0 +1,1 @@
+﻿CU09 Glitch Away	U	common	Instant	22	UBR	1U	Counter target spell unless its controller pays 2.NEWLINECycling B/RB/R (B/RB/R, Discard this card: Draw a card.)			normal	WH2_C_D1		

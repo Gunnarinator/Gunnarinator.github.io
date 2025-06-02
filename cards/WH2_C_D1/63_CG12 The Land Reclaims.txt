@@ -1,0 +1,1 @@
+﻿CG12 The Land Reclaims	G	common	Sorcery	63	G	GG	Destroy target noncreature artifact, noncreature enchantment, or token.NEWLINERetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)			normal	WH2_C_D1		

@@ -1,0 +1,1 @@
+﻿CB01 Possessed Amalgam	B	common	Creature – Spirit Horror Skeleton 	27	B	B	1B: Return Possessed Amalgam from your graveyard to your hand.	1/2		normal	WH2_C_D1		can be discarded or sac’ced.

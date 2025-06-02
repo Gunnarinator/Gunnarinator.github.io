@@ -1,0 +1,1 @@
+﻿CM06 Porcelain Guide	WRG	common	Artifact Creature – Human Cleric 	69	WRG	3RGW	Other historic creatures you control get +1/+1. (Artifacts, legendaries, and Sagas are historic.)NEWLINEBasic landcycling 2 (2, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	4/4		normal	WH2_C_D1		

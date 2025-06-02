@@ -1,0 +1,1 @@
+﻿CR06 Hinterland Patron	R	common	Creature – Human Noble 	45	R	3R	Whenever you attack, target attacking historic creature gets +2/+0 until end of turn. (Artifacts, legendaries, and Sagas are historic.)	4/3		normal	WH2_C_D1		

@@ -1,0 +1,1 @@
+﻿CU03 Waterframe Scout	U	common	Creature – Human Soldier 	16	U	2U	1U, Discard a card: This creature can’t be blocked this turn.NEWLINEWhen this creature deals combat damage to a player, draw a card.	2/2		normal	WH2_C_D1		

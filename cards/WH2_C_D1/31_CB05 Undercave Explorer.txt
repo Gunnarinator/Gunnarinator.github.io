@@ -1,0 +1,1 @@
+﻿CB05 Undercave Explorer	B	common	Creature – Human Warrior 	31	B	3B	Whenever this creature enters or attacks, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)	3/3		normal	WH2_C_D1		

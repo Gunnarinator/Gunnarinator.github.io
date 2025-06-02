@@ -1,0 +1,1 @@
+﻿CB07 Marsh Rover	B	common	Artifact Creature – Construct 	33	B	4B	When this creature enters or dies, you draw a card and lose 1 life.	5/5		normal	WH2_C_D1		

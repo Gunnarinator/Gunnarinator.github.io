@@ -1,0 +1,1 @@
+﻿CM07 Selfbound Shade	UBR	common	Creature – Spirit Warlock 	70	UBR	2UBR	Whenever you discard a card, Selfbound Shade gains menace until end of turn.NEWLINEBasic landcycling 2 (2, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	5/4		normal	WH2_C_D1		

@@ -1,0 +1,1 @@
+﻿CU08 Valiant Galeforce	U	common	Creature – Spirit Elemental 	21	U	5UU	Flying	4/4		adventure	WH2_C_D1		Disarming Gale	U	Instant – Adventure 	U	1U	Return target creature to its owner’s hand.				

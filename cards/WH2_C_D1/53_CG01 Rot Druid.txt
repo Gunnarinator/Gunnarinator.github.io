@@ -1,0 +1,1 @@
+﻿CG01 Rot Druid	G	common	Creature – Human Druid 	53	G	G	T: Add one mana of any color that a land card in your graveyard could produce.	1/1		normal	WH2_C_D1		*new*

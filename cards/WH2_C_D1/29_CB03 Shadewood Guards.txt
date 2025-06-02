@@ -1,0 +1,1 @@
+﻿CB03 Shadewood Guards	B	common	Creature – Faerie Knight 	29	B	2B	Flying	2/2		adventure	WH2_C_D1		Draw Blood	B	Sorcery – Adventure 	B	B	Each opponent loses 1 life. Create a Blood token.				

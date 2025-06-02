@@ -1,0 +1,1 @@
+﻿CU05 Migrating Zoa	U	common	Creature – Jellyfish 	18	U	3U	FlyingNEWLINEWhen this creature enters, create a Treasure token.	3/3		normal	WH2_C_D1		

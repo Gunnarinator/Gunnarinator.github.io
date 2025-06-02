@@ -1,0 +1,1 @@
+﻿CL08 Lush Landscape		common	Land	87	UG		This land enters tapped.NEWLINET: Add G or U.NEWLINEGU, T, Sacrifice this land: Return up to two target land cards from your graveyard to your hand.			normal	WH2_C_D1		

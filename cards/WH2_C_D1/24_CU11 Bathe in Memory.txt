@@ -1,0 +1,1 @@
+﻿CU11 Bathe in Memory	U	common	Instant	24	U	1U	Target player draws a card.NEWLINERetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)			normal	WH2_C_D1		

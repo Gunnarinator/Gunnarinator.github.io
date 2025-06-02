@@ -1,0 +1,1 @@
+﻿CU06 Whale Calling	U	common	Instant	19	UR	5UU	Create a 6/6 blue Whale creature token.NEWLINEU/RU/R, Discard Whale Calling: Create a Treasure token.			normal	WH2_C_D1		

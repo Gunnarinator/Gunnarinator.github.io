@@ -1,0 +1,1 @@
+﻿CU12 Clearwater Braves the Storm	U	common	Enchantment – Saga 	25	U	1U			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)NEWLINEI – Create a 1/1 blue Merfolk creature token.NEWLINEDraw a card.NEWLINEII – Target Merfolk you control gains hexproof, indestructible, and unblockable until your next turn.	saga	WH2_C_D1		

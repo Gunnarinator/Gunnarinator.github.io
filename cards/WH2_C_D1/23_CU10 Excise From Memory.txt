@@ -1,0 +1,1 @@
+﻿CU10 Excise From Memory	U	common	Instant	23	U	1UU	Exile target spell.			normal	WH2_C_D1		

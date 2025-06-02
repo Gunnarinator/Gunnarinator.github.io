@@ -1,0 +1,1 @@
+﻿CB04 Darkwater Headhunter	B	common	Creature – Human Warrior 	30	B	2B	MenaceNEWLINEWhenever Darkwater Headhunter deals combat damage to a player, create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this artifact: Draw a card.”)	2/2		normal	WH2_C_D1		

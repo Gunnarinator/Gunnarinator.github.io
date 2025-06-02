@@ -1,0 +1,1 @@
+﻿CG03 Friendly Shambler	G	common	Creature – Spirit Elemental 	55	G	2G	TrampleNEWLINEParadox – Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.	2/2		normal	WH2_C_D1		

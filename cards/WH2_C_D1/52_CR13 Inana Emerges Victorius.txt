@@ -1,0 +1,1 @@
+﻿CR13 Inana Emerges Victorius	R	common	Enchantment – Saga 	52	R	2R			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)NEWLINEI – You may discard a card. If you do, draw two cards.NEWLINEII – Inana Emerges Victorius deals 1 damage to each creature.NEWLINEIII – Put a +1/+1 counter on target creature you control.	saga	WH2_C_D1		

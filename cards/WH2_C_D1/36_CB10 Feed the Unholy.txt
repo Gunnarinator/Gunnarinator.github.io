@@ -1,0 +1,1 @@
+﻿CB10 Feed the Unholy	B	common	Sorcery	36	B	1B	As an additional cost to cast this spell, sacrifice a nonland permanent.NEWLINEDraw two cards. If you’ve sacrificed three or more permanents this turn, create a 3/2 black Horror creature token.			normal	WH2_C_D1		

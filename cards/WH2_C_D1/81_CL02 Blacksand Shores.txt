@@ -1,0 +1,1 @@
+﻿CL02 Blacksand Shores		common	Land	81	UB		This land enters tapped.NEWLINEWhen this land enters, create an Ornithopter token. (It’s a 0/2 artifact creature token with flying.)NEWLINET: Add U or B.			normal	WH2_C_D1		

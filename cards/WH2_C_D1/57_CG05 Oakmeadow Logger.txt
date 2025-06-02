@@ -1,0 +1,1 @@
+﻿CG05 Oakmeadow Logger	G	common	Creature – Human Peasant 	57	G	2G	When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.NEWLINEThreshold – This creature gets +1/+2 and has vigilance as long as there are seven or more cards in your graveyard.	2/1		normal	WH2_C_D1		

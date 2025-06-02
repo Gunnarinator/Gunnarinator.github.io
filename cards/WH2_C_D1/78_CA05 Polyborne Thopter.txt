@@ -1,0 +1,1 @@
+﻿CA05 Polyborne Thopter		common	Artifact – Vehicle 	78	C	3	FlyingNEWLINECrew 1	3/3		normal	WH2_C_D1		

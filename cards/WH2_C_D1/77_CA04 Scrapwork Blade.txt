@@ -1,0 +1,1 @@
+﻿CA04 Scrapwork Blade		common	Artifact – Equipment 	77	C	2	Equipped creature gets +1/+0 and has first strike.NEWLINEEquip 2NEWLINE3: Return Scrapwork Blade from your graveyard to your hand.			normal	WH2_C_D1		

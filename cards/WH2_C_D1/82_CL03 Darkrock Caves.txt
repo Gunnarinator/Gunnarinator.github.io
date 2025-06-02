@@ -1,0 +1,1 @@
+﻿CL03 Darkrock Caves		common	Land	82	BR		This land enters tapped.NEWLINEWhen this land enters, you may discard a card.NEWLINET: Add B or R.			normal	WH2_C_D1		

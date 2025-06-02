@@ -1,0 +1,1 @@
+﻿CW01 Coldsand Guard	W	common	Creature – Human Soldier 	1	W	W	Vigilance	1/2		adventure	WH2_C_D1		Reinforce	W	Sorcery – Adventure 	W	2W	Put two +1/+1 counters on target creature you control. (Then exile this card. You may cast the creature later from exile.)				

@@ -1,0 +1,1 @@
+﻿CM02 Determined Rotvine	RG	common	Creature – Elemental Plant 	66	RG	2RG	When this creature enters, return target card in your graveyard to your hand if it’s historic or a land.	3/3		normal	WH2_C_D1		

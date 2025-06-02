@@ -1,0 +1,1 @@
+﻿CL11 Ash Barrens		common	Land	90	C		T: Add C.NEWLINEBasic landcycling 1 (1, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)			normal	WH2_C_D1		

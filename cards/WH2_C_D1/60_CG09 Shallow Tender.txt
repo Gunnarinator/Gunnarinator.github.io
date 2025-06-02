@@ -1,0 +1,1 @@
+﻿CG09 Shallow Tender	G	common	Creature – Human Druid 	60	G	2G	Vigilance	2/2		adventure	WH2_C_D1		Harmony Wave	G	Instant – Adventure 	G	1G	Prevent all combat damage that would be dealt this turn.				

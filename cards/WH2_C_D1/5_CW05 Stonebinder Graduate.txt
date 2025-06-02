@@ -1,0 +1,1 @@
+﻿CW05 Stonebinder Graduate	W	common	Creature – Human Wizard 	5	W	2W	Historic creatures you control have first strike. (Artifacts, legendaries, and Sagas are historic.)NEWLINE4W: Until end of turn, target land you control becomes a 3/3 Golem artifact creature with haste in addition to its other types.	2/3		normal	WH2_C_D1		

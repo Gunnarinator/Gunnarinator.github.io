@@ -1,0 +1,1 @@
+﻿CR04 Shoalcaster's Coat	R	common	Artifact – Equipment 	43	R	2R	When this artifact enters, create a 1/1 blue Wizard creature token and attach this to it.NEWLINEEquipped creature gets +1/+1 and has “Whenever you cast a spell from anywhere other than your hand, this creature deals 1 damage to each opponent.”NEWLINEEquip 2			normal	WH2_C_D1		

@@ -1,0 +1,1 @@
+﻿CG07 Voracious Wolf	G	common	Creature – Spirit Horror Wolf 	58	G	3G	Whenever Voracious Wolf attacks, sacrifice a token. If you do, Voracious Wolf gets +1/+0 and gains trample until end of turn.	4/3		adventure	WH2_C_D1		Successful Hunt	G	Sorcery – Adventure 	G	G	Create a Food token. (Then exile this card. You may cast the creature later from exile.)				

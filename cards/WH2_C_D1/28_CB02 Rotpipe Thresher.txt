@@ -1,0 +1,1 @@
+﻿CB02 Rotpipe Thresher	B	common	Artifact Creature – Zombie 	28	B	1B	MenaceNEWLINEDiscard a card: Rotpipe Thresher gets +2/+2 until end of turn. Activate this ability only once each turn.	2/1		normal	WH2_C_D1		replace this with something cooler

@@ -1,0 +1,1 @@
+﻿CW02 Historian Dronescribe	W	common	Creature – Human Advisor 	2	W	1W	When this creature enters, create a 1/1 colorless Thopter artifact creature token with flying.NEWLINE1, Sacrifice a token: Scry 1.	1/1		normal	WH2_C_D1		

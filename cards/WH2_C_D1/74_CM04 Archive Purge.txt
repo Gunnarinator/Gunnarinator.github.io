@@ -1,0 +1,1 @@
+﻿CM04 Archive Purge	WB	common	Sorcery	74	WB	W/B	Exile target nonland card from a graveyard. Create a 2/2 black Zombie artifact creature token.			normal	WH2_C_D1		

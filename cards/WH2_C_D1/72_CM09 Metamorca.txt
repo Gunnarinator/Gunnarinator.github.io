@@ -1,0 +1,1 @@
+﻿CM09 Metamorca	URG	common	Creature – Elemental Whale 	72	URG	3GUR	Paradox – Whenever you cast a spell from anywhere other than your hand, Metamorca gets +1/+1 until end of turn.NEWLINEBasic landcycling 2 (2, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)	5/5		normal	WH2_C_D1		

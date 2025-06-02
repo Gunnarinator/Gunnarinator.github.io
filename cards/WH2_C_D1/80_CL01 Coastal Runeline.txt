@@ -1,0 +1,1 @@
+﻿CL01 Coastal Runeline		common	Enchantment Land	80	WU		This land enters tapped.NEWLINEIndestructibleNEWLINET: Add W or U.			normal	WH2_C_D1		

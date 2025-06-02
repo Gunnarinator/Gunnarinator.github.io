@@ -1,0 +1,1 @@
+﻿CG08 Relentless Ursa	G	common	Creature – Bear Horror 	59	G	5G	At the beginning of your end step, if this card is in exile, you may put it in your graveyard.	7/7		normal	WH2_C_D1		Atarka

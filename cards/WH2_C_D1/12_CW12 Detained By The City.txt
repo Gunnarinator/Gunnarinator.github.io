@@ -1,0 +1,1 @@
+﻿CW12 Detained By The City	W	common	Enchantment	12	W	2W	When you cast this spell, if you control an artifact, you may pay 4. If you do, copy it. You may choose new targets for the copy.NEWLINEWhen this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.			normal	WH2_C_D1		

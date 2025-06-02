@@ -1,0 +1,997 @@
+﻿[CustomCards]
+	[	{
+			"name": "CW01 Coldsand Guard",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/1_CW01 Coldsand Guard.png"
+			}
+		},
+		{
+			"name": "CW02 Historian Dronescribe",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/2_CW02 Historian Dronescribe.png"
+			}
+		},
+		{
+			"name": "CW03 Skyweave Owl",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/3_CW03 Skyweave Owl.png"
+			}
+		},
+		{
+			"name": "CW04 Snow Walker",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Scout ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/4_CW04 Snow Walker.png"
+			}
+		},
+		{
+			"name": "CW05 Stonebinder Graduate",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/5_CW05 Stonebinder Graduate.png"
+			}
+		},
+		{
+			"name": "CW06 Mirtshan Savior",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Angel ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/6_CW06 Mirtshan Savior.png"
+			}
+		},
+		{
+			"name": "CW07 Alpine Ralliers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/7_CW07 Alpine Ralliers.png"
+			}
+		},
+		{
+			"name": "CW08 Snowgoat Shepherd",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/8_CW08 Snowgoat Shepherd.png"
+			}
+		},
+		{
+			"name": "CW09 Mother's Love",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/9_CW09 Mother's Love.png"
+			}
+		},
+		{
+			"name": "CW10 Came with Dogs",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/10_CW10 Came with Dogs.png"
+			}
+		},
+		{
+			"name": "CW11 Haunt the Invaders",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/11_CW11 Haunt the Invaders.png"
+			}
+		},
+		{
+			"name": "CW12 Detained By The City",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/12_CW12 Detained By The City.png"
+			}
+		},
+		{
+			"name": "CW13 The Meeting of Heroes",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/13_CW13 The Meeting of Heroes.png"
+			}
+		},
+		{
+			"name": "CU01 Ephemeral Rootwalla",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Lizard ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/14_CU01 Ephemeral Rootwalla.png"
+			}
+		},
+		{
+			"name": "CU02 Paradoxical Kelpie",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Merfolk Spirit ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/15_CU02 Paradoxical Kelpie.png"
+			}
+		},
+		{
+			"name": "CU03 Waterframe Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/16_CU03 Waterframe Scout.png"
+			}
+		},
+		{
+			"name": "CU04 Basin Scrounger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/17_CU04 Basin Scrounger.png"
+			}
+		},
+		{
+			"name": "CU05 Migrating Zoa",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Jellyfish ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/18_CU05 Migrating Zoa.png"
+			}
+		},
+		{
+			"name": "CU06 Whale Calling",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/19_CU06 Whale Calling.png"
+			}
+		},
+		{
+			"name": "CU07 See the Perfect",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/20_CU07 See the Perfect.png"
+			}
+		},
+		{
+			"name": "CU08 Valiant Galeforce",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Spirit Elemental ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/21_CU08 Valiant Galeforce.png"
+			}
+		},
+		{
+			"name": "CU09 Glitch Away",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/22_CU09 Glitch Away.png"
+			}
+		},
+		{
+			"name": "CU10 Excise From Memory",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/23_CU10 Excise From Memory.png"
+			}
+		},
+		{
+			"name": "CU11 Bathe in Memory",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/24_CU11 Bathe in Memory.png"
+			}
+		},
+		{
+			"name": "CU12 Clearwater Braves the Storm",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/25_CU12 Clearwater Braves the Storm.png"
+			}
+		},
+		{
+			"name": "CU13 Binder's Robes",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/26_CU13 Binder's Robes.png"
+			}
+		},
+		{
+			"name": "CB01 Possessed Amalgam",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Horror Skeleton ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/27_CB01 Possessed Amalgam.png"
+			}
+		},
+		{
+			"name": "CB02 Rotpipe Thresher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Zombie ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/28_CB02 Rotpipe Thresher.png"
+			}
+		},
+		{
+			"name": "CB03 Shadewood Guards",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Knight ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/29_CB03 Shadewood Guards.png"
+			}
+		},
+		{
+			"name": "CB04 Darkwater Headhunter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/30_CB04 Darkwater Headhunter.png"
+			}
+		},
+		{
+			"name": "CB05 Undercave Explorer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/31_CB05 Undercave Explorer.png"
+			}
+		},
+		{
+			"name": "CB07 Marsh Rover",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/33_CB07 Marsh Rover.png"
+			}
+		},
+		{
+			"name": "CB08 Caveshade Haunting",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/34_CB08 Caveshade Haunting.png"
+			}
+		},
+		{
+			"name": "CB09 Eaten by Strigiformes",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/35_CB09 Eaten by Strigiformes.png"
+			}
+		},
+		{
+			"name": "CB10 Feed the Unholy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/36_CB10 Feed the Unholy.png"
+			}
+		},
+		{
+			"name": "CB11 Duress",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/37_CB11 Duress.png"
+			}
+		},
+		{
+			"name": "CB12 Plucky Perception",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/38_CB12 Plucky Perception.png"
+			}
+		},
+		{
+			"name": "CB13 Guardian's Tenacity",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/39_CB13 Guardian's Tenacity.png"
+			}
+		},
+		{
+			"name": "CR01 Payload Headbanger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Rogue ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/40_CR01 Payload Headbanger.png"
+			}
+		},
+		{
+			"name": "CR02 Eager Lavaseeker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/41_CR02 Eager Lavaseeker.png"
+			}
+		},
+		{
+			"name": "CR03 Butterfly Finder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/42_CR03 Butterfly Finder.png"
+			}
+		},
+		{
+			"name": "CR04 Shoalcaster's Coat",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/43_CR04 Shoalcaster's Coat.png"
+			}
+		},
+		{
+			"name": "CR05 Dustspeaker Graduate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/44_CR05 Dustspeaker Graduate.png"
+			}
+		},
+		{
+			"name": "CR06 Hinterland Patron",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/45_CR06 Hinterland Patron.png"
+			}
+		},
+		{
+			"name": "CR07 Cavewitch's Companion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Horror  ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/46_CR07 Cavewitch's Companion.png"
+			}
+		},
+		{
+			"name": "CR08 Shenanigans",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/47_CR08 Shenanigans.png"
+			}
+		},
+		{
+			"name": "CR09 Fireform Burst",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/48_CR09 Fireform Burst.png"
+			}
+		},
+		{
+			"name": "CR10 Reckless Charge",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/49_CR10 Reckless Charge.png"
+			}
+		},
+		{
+			"name": "CR11 Undercave Eruption",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/50_CR11 Undercave Eruption.png"
+			}
+		},
+		{
+			"name": "CR12 Inventive Nature",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/51_CR12 Inventive Nature.png"
+			}
+		},
+		{
+			"name": "CR13 Inana Emerges Victorius",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/52_CR13 Inana Emerges Victorius.png"
+			}
+		},
+		{
+			"name": "CG01 Rot Druid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/53_CG01 Rot Druid.png"
+			}
+		},
+		{
+			"name": "CG02 Greenmeadow Elves",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/54_CG02 Greenmeadow Elves.png"
+			}
+		},
+		{
+			"name": "CG03 Friendly Shambler",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Elemental ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/55_CG03 Friendly Shambler.png"
+			}
+		},
+		{
+			"name": "CG04 Hushwood Procession",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/56_CG04 Hushwood Procession.png"
+			}
+		},
+		{
+			"name": "CG05 Oakmeadow Logger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Peasant ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/57_CG05 Oakmeadow Logger.png"
+			}
+		},
+		{
+			"name": "CG07 Voracious Wolf",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit Horror Wolf ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/58_CG07 Voracious Wolf.png"
+			}
+		},
+		{
+			"name": "CG08 Relentless Ursa",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Bear Horror ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/59_CG08 Relentless Ursa.png"
+			}
+		},
+		{
+			"name": "CG09 Shallow Tender",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/60_CG09 Shallow Tender.png"
+			}
+		},
+		{
+			"name": "CG10 Ursine Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/61_CG10 Ursine Growth.png"
+			}
+		},
+		{
+			"name": "CG11 Set Off",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/62_CG11 Set Off.png"
+			}
+		},
+		{
+			"name": "CG12 The Land Reclaims",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/63_CG12 The Land Reclaims.png"
+			}
+		},
+		{
+			"name": "CG13 A Defense of [City]",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/64_CG13 A Defense of [City].png"
+			}
+		},
+		{
+			"name": "CM01 Wrack the Mind",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/65_CM01 Wrack the Mind.png"
+			}
+		},
+		{
+			"name": "CM02 Determined Rotvine",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Elemental Plant ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/66_CM02 Determined Rotvine.png"
+			}
+		},
+		{
+			"name": "CM03 Aetherwing Host",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Faerie Peasant ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/67_CM03 Aetherwing Host.png"
+			}
+		},
+		{
+			"name": "CM05 Bloodshore Conjurer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/68_CM05 Bloodshore Conjurer.png"
+			}
+		},
+		{
+			"name": "CM06 Porcelain Guide",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Artifact Creature — Human Cleric ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/69_CM06 Porcelain Guide.png"
+			}
+		},
+		{
+			"name": "CM07 Selfbound Shade",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Spirit Warlock ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/70_CM07 Selfbound Shade.png"
+			}
+		},
+		{
+			"name": "CM08 Guardian Extruder",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/71_CM08 Guardian Extruder.png"
+			}
+		},
+		{
+			"name": "CM09 Metamorca",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Creature — Elemental Whale ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/72_CM09 Metamorca.png"
+			}
+		},
+		{
+			"name": "CM10 A Beast of Hunger",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Spirit Horror ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/73_CM10 A Beast of Hunger.png"
+			}
+		},
+		{
+			"name": "CM04 Archive Purge",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/74_CM04 Archive Purge.png"
+			}
+		},
+		{
+			"name": "CA01 River Bauble",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/75_CA01 River Bauble.png"
+			}
+		},
+		{
+			"name": "CA03 Draconic Squatter",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/76_CA03 Draconic Squatter.png"
+			}
+		},
+		{
+			"name": "CA04 Scrapwork Blade",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/77_CA04 Scrapwork Blade.png"
+			}
+		},
+		{
+			"name": "CA05 Polyborne Thopter",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/78_CA05 Polyborne Thopter.png"
+			}
+		},
+		{
+			"name": "CA06 Explosive Compass",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/79_CA06 Explosive Compass.png"
+			}
+		},
+		{
+			"name": "CL01 Coastal Runeline",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/80_CL01 Coastal Runeline.png"
+			}
+		},
+		{
+			"name": "CL02 Blacksand Shores",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/81_CL02 Blacksand Shores.png"
+			}
+		},
+		{
+			"name": "CL03 Darkrock Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/82_CL03 Darkrock Caves.png"
+			}
+		},
+		{
+			"name": "CL04 Bouldered Vista",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/83_CL04 Bouldered Vista.png"
+			}
+		},
+		{
+			"name": "CL05 Hinterland Square",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/84_CL05 Hinterland Square.png"
+			}
+		},
+		{
+			"name": "CL06 Interwoven Den",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/85_CL06 Interwoven Den.png"
+			}
+		},
+		{
+			"name": "CL07 Saltrock Mines",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Land — Food Cave ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/86_CL07 Saltrock Mines.png"
+			}
+		},
+		{
+			"name": "CL08 Lush Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/87_CL08 Lush Landscape.png"
+			}
+		},
+		{
+			"name": "CL09 Lighthouse Shallows",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/88_CL09 Lighthouse Shallows.png"
+			}
+		},
+		{
+			"name": "CL10 Historic Ruins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/89_CL10 Historic Ruins.png"
+			}
+		},
+		{
+			"name": "CL11 Ash Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/90_CL11 Ash Barrens.png"
+			}
+		},
+		{
+			"name": "CB06 Deadmarsh Elk",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elk Horror ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Gunnarinator.github.io/sets/WH2_C_D1-files/img/32_CB06 Deadmarsh Elk.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	[UncommonSlot(3)]
+	[CommonSlot(10)]
+	30 CW01 Coldsand Guard
+		30 CW02 Historian Dronescribe
+		30 CW03 Skyweave Owl
+		30 CW04 Snow Walker
+		30 CW05 Stonebinder Graduate
+		30 CW06 Mirtshan Savior
+		30 CW07 Alpine Ralliers
+		30 CW08 Snowgoat Shepherd
+		30 CW09 Mother's Love
+		30 CW10 Came with Dogs
+		30 CW11 Haunt the Invaders
+		30 CW12 Detained By The City
+		30 CW13 The Meeting of Heroes
+		30 CU01 Ephemeral Rootwalla
+		30 CU02 Paradoxical Kelpie
+		30 CU03 Waterframe Scout
+		30 CU04 Basin Scrounger
+		30 CU05 Migrating Zoa
+		30 CU06 Whale Calling
+		30 CU07 See the Perfect
+		30 CU08 Valiant Galeforce
+		30 CU09 Glitch Away
+		30 CU10 Excise From Memory
+		30 CU11 Bathe in Memory
+		30 CU12 Clearwater Braves the Storm
+		30 CU13 Binder's Robes
+		30 CB01 Possessed Amalgam
+		30 CB02 Rotpipe Thresher
+		30 CB03 Shadewood Guards
+		30 CB04 Darkwater Headhunter
+		30 CB05 Undercave Explorer
+		30 CB07 Marsh Rover
+		30 CB08 Caveshade Haunting
+		30 CB09 Eaten by Strigiformes
+		30 CB10 Feed the Unholy
+		30 CB11 Duress
+		30 CB12 Plucky Perception
+		30 CB13 Guardian's Tenacity
+		30 CR01 Payload Headbanger
+		30 CR02 Eager Lavaseeker
+		30 CR03 Butterfly Finder
+		30 CR04 Shoalcaster's Coat
+		30 CR05 Dustspeaker Graduate
+		30 CR06 Hinterland Patron
+		30 CR07 Cavewitch's Companion
+		30 CR08 Shenanigans
+		30 CR09 Fireform Burst
+		30 CR10 Reckless Charge
+		30 CR11 Undercave Eruption
+		30 CR12 Inventive Nature
+		30 CR13 Inana Emerges Victorius
+		30 CG01 Rot Druid
+		30 CG02 Greenmeadow Elves
+		30 CG03 Friendly Shambler
+		30 CG04 Hushwood Procession
+		30 CG05 Oakmeadow Logger
+		30 CG07 Voracious Wolf
+		30 CG08 Relentless Ursa
+		30 CG09 Shallow Tender
+		30 CG10 Ursine Growth
+		30 CG11 Set Off
+		30 CG12 The Land Reclaims
+		30 CG13 A Defense of [City]
+		30 CM01 Wrack the Mind
+		30 CM02 Determined Rotvine
+		30 CM03 Aetherwing Host
+		30 CM05 Bloodshore Conjurer
+		30 CM06 Porcelain Guide
+		30 CM07 Selfbound Shade
+		30 CM08 Guardian Extruder
+		30 CM09 Metamorca
+		30 CM10 A Beast of Hunger
+		30 CM04 Archive Purge
+		30 CA01 River Bauble
+		30 CA03 Draconic Squatter
+		30 CA04 Scrapwork Blade
+		30 CA05 Polyborne Thopter
+		30 CA06 Explosive Compass
+		30 CL01 Coastal Runeline
+		30 CL02 Blacksand Shores
+		30 CL03 Darkrock Caves
+		30 CL04 Bouldered Vista
+		30 CL05 Hinterland Square
+		30 CL06 Interwoven Den
+		30 CL07 Saltrock Mines
+		30 CL08 Lush Landscape
+		30 CL09 Lighthouse Shallows
+		30 CL10 Historic Ruins
+		30 CL11 Ash Barrens
+		30 CB06 Deadmarsh Elk
+		[LandSlot(1)]
+	

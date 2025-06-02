@@ -1,0 +1,1 @@
+﻿CR12 Inventive Nature	R	common	Instant	51	R	1R	Create a Treasure token.NEWLINERetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)			normal	WH2_C_D1		

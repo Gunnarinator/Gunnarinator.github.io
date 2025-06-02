@@ -1,0 +1,1 @@
+﻿CR01 Payload Headbanger	R	common	Artifact Creature – Rogue 	40	R	R	HasteNEWLINEWhen Payload Headbanger dies, you may pay R. If you do, it deals 1 damage to any target.	1/1		normal	WH2_C_D1		

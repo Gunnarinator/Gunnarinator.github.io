@@ -1,0 +1,130 @@
+1_﻿CW01 Coldsand Guard
+14_CU01 Ephemeral Rootwalla
+27_CB01 Possessed Amalgam
+40_CR01 Payload Headbanger
+53_CG01 Rot Druid
+2_CW02 Historian Dronescribe
+15_CU02 Paradoxical Kelpie
+28_CB02 Rotpipe Thresher
+41_CR02 Eager Lavaseeker
+54_CG02 Greenmeadow Elves
+3_CW03 Skyweave Owl
+16_CU03 Waterframe Scout
+29_CB03 Shadewood Guards
+42_CR03 Butterfly Finder
+55_CG03 Friendly Shambler
+4_CW04 Snow Walker
+17_CU04 Basin Scrounger
+30_CB04 Darkwater Headhunter
+43_CR04 Shoalcaster's Coat
+56_CG04 Hushwood Procession
+5_CW05 Stonebinder Graduate
+18_CU05 Migrating Zoa
+31_CB05 Undercave Explorer
+44_CR05 Dustspeaker Graduate
+57_CG05 Oakmeadow Logger
+6_CW06 Mirtshan Savior
+19_CU06 Whale Calling
+32_CB06 Deadmarsh Elk
+45_CR06 Hinterland Patron
+58_CG07 Voracious Wolf
+7_CW07 Alpine Ralliers
+20_CU07 See the Perfect
+33_CB07 Marsh Rover
+46_CR07 Cavewitch's Companion
+59_CG08 Relentless Ursa
+8_CW08 Snowgoat Shepherd
+21_CU08 Valiant Galeforce
+34_CB08 Caveshade Haunting
+47_CR08 Shenanigans
+60_CG09 Shallow Tender
+9_CW09 Mother's Love
+22_CU09 Glitch Away
+35_CB09 Eaten by Strigiformes
+48_CR09 Fireform Burst
+61_CG10 Ursine Growth
+10_CW10 Came with Dogs
+23_CU10 Excise From Memory
+36_CB10 Feed the Unholy
+49_CR10 Reckless Charge
+62_CG11 Set Off
+11_CW11 Haunt the Invaders
+24_CU11 Bathe in Memory
+37_CB11 Duress
+50_CR11 Undercave Eruption
+63_CG12 The Land Reclaims
+12_CW12 Detained By The City
+25_CU12 Clearwater Braves the Storm
+38_CB12 Plucky Perception
+51_CR12 Inventive Nature
+64_CG13 A Defense of [City]
+13_CW13 The Meeting of Heroes
+26_CU13 Binder's Robes
+39_CB13 Guardian's Tenacity
+52_CR13 Inana Emerges Victorius
+e
+er
+er
+er
+er
+er
+e
+65_CM01 Wrack the Mind
+e
+66_CM02 Determined Rotvine
+67_CM03 Aetherwing Host
+er
+er
+er
+er
+er
+74_CM04 Archive Purge
+e
+e
+68_CM05 Bloodshore Conjurer
+e
+er
+er
+er
+er
+er
+69_CM06 Porcelain Guide
+70_CM07 Selfbound Shade
+71_CM08 Guardian Extruder
+72_CM09 Metamorca
+73_CM10 A Beast of Hunger
+er
+er
+er
+er
+er
+75_CA01 River Bauble
+76_CA03 Draconic Squatter
+77_CA04 Scrapwork Blade
+78_CA05 Polyborne Thopter
+79_CA06 Explosive Compass
+er
+er
+er
+er
+er
+80_CL01 Coastal Runeline
+81_CL02 Blacksand Shores
+82_CL03 Darkrock Caves
+83_CL04 Bouldered Vista
+84_CL05 Hinterland Square
+85_CL06 Interwoven Den
+86_CL07 Saltrock Mines
+87_CL08 Lush Landscape
+88_CL09 Lighthouse Shallows
+89_CL10 Historic Ruins
+er
+er
+er
+er
+er
+90_CL11 Ash Barrens
+e
+e
+e
+e

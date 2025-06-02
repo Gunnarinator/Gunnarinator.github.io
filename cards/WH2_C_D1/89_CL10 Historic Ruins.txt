@@ -1,0 +1,1 @@
+﻿CL10 Historic Ruins		common	Land	89	WR		This land enters tapped.NEWLINEWhen this land enters, target historic creature you control gets +2/+1 until end of turn. (Artifacts, legendaries, and Sagas are historic.)NEWLINET: Add R or W.			normal	WH2_C_D1		

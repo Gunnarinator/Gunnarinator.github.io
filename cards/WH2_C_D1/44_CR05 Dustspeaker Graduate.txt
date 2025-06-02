@@ -1,0 +1,1 @@
+﻿CR05 Dustspeaker Graduate	R	common	Creature – Human Wizard 	44	R	2R	Historic creatures you control have menace. (Artifacts, legendaries, and Sagas are historic.)NEWLINE4R: Until end of turn, target land you control becomes a 3/3 Golem artifact creature with haste in addition to its other types.	3/2		normal	WH2_C_D1		

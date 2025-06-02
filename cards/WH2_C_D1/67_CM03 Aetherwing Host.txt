@@ -1,0 +1,1 @@
+﻿CM03 Aetherwing Host	WG	common	Creature – Faerie Peasant 	67	WG	GW	When this creature enters or dies, create a Food token.	2/2		normal	WH2_C_D1		

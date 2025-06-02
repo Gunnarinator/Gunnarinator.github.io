@@ -1,0 +1,1 @@
+﻿CB08 Caveshade Haunting	B	common	Instant	34	B	2B	Target creature gets -3/-3 until end of turn. You gain 3 life.NEWLINEMadness 1B (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)			normal	WH2_C_D1		

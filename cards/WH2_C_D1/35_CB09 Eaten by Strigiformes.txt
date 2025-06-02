@@ -1,0 +1,1 @@
+﻿CB09 Eaten by Strigiformes	B	common	Instant	35	B	2BB	This spell costs 2 less if you sacrificed a permanent this turn.NEWLINEDestroy target creature.			normal	WH2_C_D1		

@@ -1,0 +1,1 @@
+﻿CL07 Saltrock Mines		common	Artifact Land – Food Cave 	86	BG		(2, T, Sacrifice this artifact: You gain 3 life.)NEWLINEThis land enters tapped.NEWLINEIndestructibleNEWLINET: Add B or G.			normal	WH2_C_D1		

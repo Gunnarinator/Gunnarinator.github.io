@@ -1,0 +1,1 @@
+﻿CR09 Fireform Burst	R	common	Instant	48	R	R	Fireform Burst deals 2 damage to any target.NEWLINEParadox – Fireform Burst deals 3 damage to that permanent or player instead if it was cast from anywhere other than your hand.			normal	WH2_C_D1		

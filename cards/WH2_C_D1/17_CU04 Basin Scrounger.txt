@@ -1,0 +1,1 @@
+﻿CU04 Basin Scrounger	U	common	Artifact Creature – Construct 	17	U	2U	When this creature enters, put target artifact, instant, or sorcery card from your graveyard on top of your library.	2/2		normal	WH2_C_D1		

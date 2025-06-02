@@ -1,0 +1,1 @@
+﻿CW10 Came with Dogs	W	common	Instant	10	W	1W	Target creature you control gets +X/+X until end of turn, where X is one plus the number of tokens you control.			normal	WH2_C_D1		

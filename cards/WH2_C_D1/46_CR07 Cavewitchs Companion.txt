@@ -1,0 +1,1 @@
+﻿CR07 Cavewitch's Companion	R	common	Creature – Elemental Horror  	46	R	3RR	MenaceNEWLINEThis creature gets +2/+0 as long as you’ve discarded a card this turn.	3/3		adventure	WH2_C_D1		Hexing Bolt	R	Sorcery – Adventure 	R	1R	Hexing Bolt deals 3 damage to target creature or planeswalker.				

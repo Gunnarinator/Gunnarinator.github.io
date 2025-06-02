@@ -1,0 +1,1 @@
+﻿CL05 Hinterland Square		common	Land	84	WG		This land enters tapped.NEWLINEWhen this land enters, create a tapped Food token.NEWLINET: Add G or W.			normal	WH2_C_D1		

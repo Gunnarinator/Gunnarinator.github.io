@@ -1,0 +1,1 @@
+﻿CB11 Duress	B	common	Sorcery	37	B	B	Target opponent reveals their hand. You choose a noncreature, nonland card from among them. That player discards that card.			normal	WH2_C_D1		*new*

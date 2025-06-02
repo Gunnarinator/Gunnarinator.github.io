@@ -1,0 +1,1 @@
+﻿CA06 Explosive Compass		common	Artifact	79	C	1	When this artifact enters, surveil 1.NEWLINE3, T, Sacrifice this artifact: It deals 3 damage to target creature.			normal	WH2_C_D1		

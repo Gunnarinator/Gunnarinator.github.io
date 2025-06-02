@@ -1,0 +1,1 @@
+﻿CL09 Lighthouse Shallows		common	Land	88	UR		This land enters tapped with a stun counter on it.NEWLINEWhen this land enters, create a Treasure token.NEWLINET: Add U or R.			normal	WH2_C_D1		

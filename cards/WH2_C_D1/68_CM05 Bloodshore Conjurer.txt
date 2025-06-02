@@ -1,0 +1,1 @@
+﻿CM05 Bloodshore Conjurer	UR	common	Creature – Human Wizard 	68	UR	1UR	Instant and sorcery spells with mana value 4 or less cost 1 less to cast if you cast them from your hand.NEWLINEInstant and sorcery spells cast from anywhere other than your hand cost 1 less to cast.	3/3		normal	WH2_C_D1		

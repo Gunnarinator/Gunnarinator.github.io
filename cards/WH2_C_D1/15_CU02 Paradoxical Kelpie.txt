@@ -1,0 +1,1 @@
+﻿CU02 Paradoxical Kelpie	U	common	Enchantment Creature – Merfolk Spirit 	15	U	1U	T: Add U. This mana can’t be spent to cast spells from your hand.	1/3		normal	WH2_C_D1		
